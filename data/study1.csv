@@ -1,0 +1,1171 @@
+"pid","comparison","analogy_a","analogy_b","top_id","choice","pref"
+"P001","mechanical vs psychological","pm_1","mp_1","pm_1",6,-2
+"P001","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P001","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P001","filler (biological vs economic)","be_3","eb_3","be_3",5,-1
+"P001","filler (biological vs economic)","be_2","eb_2","eb_2",4,0
+"P001","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P002","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P002","filler (biological vs economic)","be_1","eb_1","be_1",2,2
+"P002","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P002","filler (biological vs economic)","be_3","eb_3","be_3",7,-3
+"P002","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P002","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P003","filler (biological vs economic)","be_4","eb_4","be_4",3,1
+"P003","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P003","mechanical vs psychological","pm_4","mp_4","pm_4",3,1
+"P003","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P003","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P003","mechanical vs psychological","pm_5","mp_3","mp_3",3,-1
+"P004","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P004","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P004","mechanical vs psychological","pm_6","mp_6","mp_6",5,1
+"P004","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P004","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P004","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P005","filler (biological vs economic)","be_4","eb_4","be_4",3,1
+"P005","mechanical vs psychological","pm_3","mp_1","mp_1",4,0
+"P005","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P005","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P005","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P005","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P006","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P006","filler (biological vs economic)","be_5","eb_6","be_5",5,-1
+"P006","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P006","mechanical vs psychological","pm_6","mp_2","pm_6",6,-2
+"P006","filler (biological vs economic)","be_3","eb_1","be_3",6,-2
+"P006","filler (biological vs economic)","be_2","eb_3","eb_3",3,-1
+"P007","filler (biological vs economic)","be_6","eb_1","eb_1",2,-2
+"P007","mechanical vs psychological","pm_6","mp_3","mp_3",4,0
+"P007","mechanical vs psychological","pm_1","mp_6","mp_6",5,1
+"P007","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P007","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P007","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P008","mechanical vs psychological","pm_1","mp_1","pm_1",6,-2
+"P008","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P008","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P008","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P008","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P008","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P009","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P009","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P009","mechanical vs psychological","pm_6","mp_6","mp_6",6,2
+"P009","filler (biological vs economic)","be_4","eb_4","eb_4",3,-1
+"P009","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P009","filler (biological vs economic)","be_6","eb_6","eb_6",4,0
+"P010","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P010","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P010","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P010","filler (biological vs economic)","be_2","eb_6","be_2",5,-1
+"P010","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P010","mechanical vs psychological","pm_2","mp_2","pm_2",4,0
+"P011","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P011","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P011","mechanical vs psychological","pm_6","mp_6","mp_6",1,-3
+"P011","filler (biological vs economic)","be_4","eb_4","eb_4",5,1
+"P011","filler (biological vs economic)","be_5","eb_5","be_5",4,0
+"P011","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P012","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P012","mechanical vs psychological","pm_3","mp_1","mp_1",5,1
+"P012","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P012","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P012","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P012","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P013","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P013","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P013","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P013","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P013","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P013","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P014","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P014","filler (biological vs economic)","be_4","eb_4","eb_4",5,1
+"P014","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P014","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P014","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P014","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P015","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P015","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P015","mechanical vs psychological","pm_2","mp_6","mp_6",3,-1
+"P015","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P015","filler (biological vs economic)","be_3","eb_1","be_3",6,-2
+"P015","filler (biological vs economic)","be_2","eb_3","eb_3",3,-1
+"P016","mechanical vs psychological","pm_4","mp_1","pm_4",7,-3
+"P016","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P016","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P016","filler (biological vs economic)","be_5","eb_3","be_5",4,0
+"P016","filler (biological vs economic)","be_1","eb_2","be_1",4,0
+"P016","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P017","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P017","filler (biological vs economic)","be_1","eb_1","be_1",2,2
+"P017","mechanical vs psychological","pm_3","mp_3","pm_3",6,-2
+"P017","filler (biological vs economic)","be_3","eb_3","be_3",1,3
+"P017","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P017","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P018","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P018","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P018","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P018","filler (biological vs economic)","be_5","eb_3","be_5",4,0
+"P018","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P018","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P019","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P019","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P019","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P019","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P019","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P019","mechanical vs psychological","pm_2","mp_2","pm_2",4,0
+"P020","mechanical vs psychological","pm_1","mp_5","pm_1",5,-1
+"P020","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P020","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P020","mechanical vs psychological","pm_6","mp_2","pm_6",4,0
+"P020","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P020","filler (biological vs economic)","be_2","eb_3","eb_3",1,-3
+"P021","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P021","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P021","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P021","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P021","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P021","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P022","filler (biological vs economic)","be_6","eb_1","eb_1",1,-3
+"P022","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P022","mechanical vs psychological","pm_1","mp_6","mp_6",4,0
+"P022","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P022","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P022","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P023","mechanical vs psychological","pm_4","mp_1","pm_4",7,-3
+"P023","filler (biological vs economic)","be_4","eb_4","eb_4",3,-1
+"P023","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P023","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P023","filler (biological vs economic)","be_1","eb_2","be_1",7,-3
+"P023","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P024","mechanical vs psychological","pm_1","mp_5","pm_1",3,1
+"P024","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P024","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P024","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P024","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P024","filler (biological vs economic)","be_2","eb_3","eb_3",6,2
+"P025","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P025","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P025","mechanical vs psychological","pm_2","mp_6","mp_6",3,-1
+"P025","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P025","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P025","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P026","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P026","filler (biological vs economic)","be_5","eb_6","be_5",5,-1
+"P026","mechanical vs psychological","pm_2","mp_6","mp_6",5,1
+"P026","mechanical vs psychological","pm_6","mp_2","pm_6",3,1
+"P026","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P026","filler (biological vs economic)","be_2","eb_3","eb_3",5,1
+"P027","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P027","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P027","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P027","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P027","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P027","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P028","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P028","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P028","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P028","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P028","filler (biological vs economic)","be_1","eb_2","eb_2",7,3
+"P028","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P029","filler (biological vs economic)","be_6","eb_1","eb_1",5,1
+"P029","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P029","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P029","filler (biological vs economic)","be_2","eb_6","be_2",4,0
+"P029","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P029","mechanical vs psychological","pm_2","mp_2","pm_2",2,2
+"P030","filler (biological vs economic)","be_6","eb_1","eb_1",2,-2
+"P030","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P030","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P030","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P030","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P030","mechanical vs psychological","pm_2","mp_2","pm_2",1,3
+"P031","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P031","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P031","mechanical vs psychological","pm_3","mp_3","pm_3",6,-2
+"P031","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P031","filler (biological vs economic)","be_2","eb_2","eb_2",2,-2
+"P031","mechanical vs psychological","pm_2","mp_2","mp_2",2,-2
+"P032","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P032","filler (biological vs economic)","be_4","eb_4","eb_4",5,1
+"P032","mechanical vs psychological","pm_3","mp_4","mp_4",5,1
+"P032","filler (biological vs economic)","be_5","eb_3","be_5",3,1
+"P032","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P032","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P033","mechanical vs psychological","pm_4","mp_1","pm_4",7,-3
+"P033","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P033","mechanical vs psychological","pm_3","mp_4","mp_4",1,-3
+"P033","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P033","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P033","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P035","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P035","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P035","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P035","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P035","filler (biological vs economic)","be_3","eb_1","be_3",4,0
+"P035","filler (biological vs economic)","be_2","eb_3","eb_3",7,3
+"P036","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P036","filler (biological vs economic)","be_1","eb_1","be_1",7,-3
+"P036","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P036","filler (biological vs economic)","be_3","eb_3","be_3",7,-3
+"P036","filler (biological vs economic)","be_2","eb_2","eb_2",7,3
+"P036","mechanical vs psychological","pm_2","mp_2","mp_2",7,3
+"P037","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P037","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P037","mechanical vs psychological","pm_3","mp_3","pm_3",7,-3
+"P037","filler (biological vs economic)","be_3","eb_3","be_3",7,-3
+"P037","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P037","mechanical vs psychological","pm_2","mp_2","mp_2",2,-2
+"P038","mechanical vs psychological","pm_4","mp_4","mp_4",3,-1
+"P038","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P038","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P038","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P038","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P038","filler (biological vs economic)","be_6","eb_6","eb_6",1,-3
+"P039","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P039","filler (biological vs economic)","be_1","eb_1","be_1",5,-1
+"P039","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P039","filler (biological vs economic)","be_3","eb_3","be_3",7,-3
+"P039","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P039","mechanical vs psychological","pm_2","mp_2","mp_2",3,-1
+"P040","mechanical vs psychological","pm_1","mp_1","pm_1",3,1
+"P040","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P040","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P040","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P040","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P040","mechanical vs psychological","pm_2","mp_2","mp_2",4,0
+"P041","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P041","mechanical vs psychological","pm_5","mp_5","pm_5",4,0
+"P041","mechanical vs psychological","pm_6","mp_6","mp_6",4,0
+"P041","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P041","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P041","filler (biological vs economic)","be_6","eb_6","eb_6",4,0
+"P042","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P042","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P042","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P042","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P042","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P042","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P043","filler (biological vs economic)","be_4","eb_4","be_4",7,-3
+"P043","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P043","mechanical vs psychological","pm_4","mp_4","pm_4",4,0
+"P043","filler (biological vs economic)","be_6","eb_5","eb_5",1,-3
+"P043","filler (biological vs economic)","be_1","eb_2","eb_2",7,3
+"P043","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P044","filler (biological vs economic)","be_4","eb_4","be_4",3,1
+"P044","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P044","mechanical vs psychological","pm_4","mp_4","pm_4",6,-2
+"P044","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P044","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P044","mechanical vs psychological","pm_5","mp_3","mp_3",3,-1
+"P045","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P045","mechanical vs psychological","pm_6","mp_3","mp_3",5,1
+"P045","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P045","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P045","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P045","mechanical vs psychological","pm_2","mp_2","pm_2",2,2
+"P046","mechanical vs psychological","pm_1","mp_5","pm_1",5,-1
+"P046","filler (biological vs economic)","be_5","eb_6","be_5",5,-1
+"P046","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P046","mechanical vs psychological","pm_6","mp_2","pm_6",3,1
+"P046","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P046","filler (biological vs economic)","be_2","eb_3","eb_3",5,1
+"P047","mechanical vs psychological","pm_1","mp_5","pm_1",4,0
+"P047","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P047","mechanical vs psychological","pm_2","mp_6","mp_6",7,3
+"P047","mechanical vs psychological","pm_6","mp_2","pm_6",6,-2
+"P047","filler (biological vs economic)","be_3","eb_1","be_3",2,2
+"P047","filler (biological vs economic)","be_2","eb_3","eb_3",4,0
+"P048","mechanical vs psychological","pm_4","mp_1","pm_4",3,1
+"P048","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P048","mechanical vs psychological","pm_3","mp_4","mp_4",5,1
+"P048","filler (biological vs economic)","be_5","eb_3","be_5",4,0
+"P048","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P048","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P049","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P049","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P049","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P049","filler (biological vs economic)","be_2","eb_6","be_2",4,0
+"P049","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P049","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P050","filler (biological vs economic)","be_4","eb_4","be_4",5,-1
+"P050","mechanical vs psychological","pm_3","mp_1","mp_1",5,1
+"P050","mechanical vs psychological","pm_4","mp_4","pm_4",6,-2
+"P050","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P050","filler (biological vs economic)","be_1","eb_2","eb_2",6,2
+"P050","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P051","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P051","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P051","mechanical vs psychological","pm_2","mp_6","mp_6",4,0
+"P051","mechanical vs psychological","pm_6","mp_2","pm_6",4,0
+"P051","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P051","filler (biological vs economic)","be_2","eb_3","eb_3",1,-3
+"P052","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P052","mechanical vs psychological","pm_6","mp_3","mp_3",3,-1
+"P052","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P052","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P052","filler (biological vs economic)","be_3","eb_5","eb_5",1,-3
+"P052","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P053","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P053","filler (biological vs economic)","be_1","eb_1","be_1",4,0
+"P053","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P053","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P053","filler (biological vs economic)","be_2","eb_2","eb_2",5,1
+"P053","mechanical vs psychological","pm_2","mp_2","mp_2",4,0
+"P054","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P054","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P054","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P054","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P054","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P054","mechanical vs psychological","pm_2","mp_2","pm_2",7,-3
+"P055","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P055","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P055","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P055","filler (biological vs economic)","be_6","eb_5","eb_5",4,0
+"P055","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P055","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P056","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P056","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P056","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P056","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P056","filler (biological vs economic)","be_2","eb_2","eb_2",2,-2
+"P056","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P057","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P057","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P057","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P057","filler (biological vs economic)","be_6","eb_5","eb_5",4,0
+"P057","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P057","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P058","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P058","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P058","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P058","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P058","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P058","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P059","mechanical vs psychological","pm_4","mp_1","pm_4",3,1
+"P059","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P059","mechanical vs psychological","pm_3","mp_4","mp_4",5,1
+"P059","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P059","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P059","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P060","mechanical vs psychological","pm_1","mp_5","pm_1",6,-2
+"P060","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P060","mechanical vs psychological","pm_2","mp_6","mp_6",3,-1
+"P060","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P060","filler (biological vs economic)","be_3","eb_1","be_3",7,-3
+"P060","filler (biological vs economic)","be_2","eb_3","eb_3",3,-1
+"P061","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P061","filler (biological vs economic)","be_5","eb_6","be_5",3,1
+"P061","mechanical vs psychological","pm_2","mp_6","mp_6",5,1
+"P061","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P061","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P061","filler (biological vs economic)","be_2","eb_3","eb_3",6,2
+"P062","mechanical vs psychological","pm_1","mp_5","pm_1",7,-3
+"P062","filler (biological vs economic)","be_5","eb_6","be_5",1,3
+"P062","mechanical vs psychological","pm_2","mp_6","mp_6",7,3
+"P062","mechanical vs psychological","pm_6","mp_2","pm_6",7,-3
+"P062","filler (biological vs economic)","be_3","eb_1","be_3",7,-3
+"P062","filler (biological vs economic)","be_2","eb_3","eb_3",1,-3
+"P063","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P063","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P063","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P063","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P063","filler (biological vs economic)","be_3","eb_1","be_3",6,-2
+"P063","filler (biological vs economic)","be_2","eb_3","eb_3",3,-1
+"P064","filler (biological vs economic)","be_6","eb_1","eb_1",3,-1
+"P064","mechanical vs psychological","pm_6","mp_3","mp_3",5,1
+"P064","mechanical vs psychological","pm_1","mp_6","mp_6",5,1
+"P064","filler (biological vs economic)","be_2","eb_6","be_2",5,-1
+"P064","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P064","mechanical vs psychological","pm_2","mp_2","pm_2",2,2
+"P065","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P065","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P065","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P065","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P065","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P065","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P066","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P066","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P066","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P066","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P066","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P066","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P067","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P067","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P067","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P067","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P067","filler (biological vs economic)","be_1","eb_2","be_1",7,-3
+"P067","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P068","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P068","mechanical vs psychological","pm_6","mp_3","mp_3",2,-2
+"P068","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P068","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P068","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P068","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P069","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P069","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P069","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P069","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P069","filler (biological vs economic)","be_5","eb_5","be_5",3,1
+"P069","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P070","mechanical vs psychological","pm_4","mp_1","pm_4",7,-3
+"P070","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P070","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P070","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P070","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P070","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P071","mechanical vs psychological","pm_1","mp_1","pm_1",7,-3
+"P071","filler (biological vs economic)","be_1","eb_1","be_1",1,3
+"P071","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P071","filler (biological vs economic)","be_3","eb_3","be_3",1,3
+"P071","filler (biological vs economic)","be_2","eb_2","eb_2",7,3
+"P071","mechanical vs psychological","pm_2","mp_2","mp_2",1,-3
+"P072","filler (biological vs economic)","be_6","eb_1","eb_1",1,-3
+"P072","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P072","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P072","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P072","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P072","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P073","mechanical vs psychological","pm_1","mp_1","pm_1",5,-1
+"P073","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P073","mechanical vs psychological","pm_3","mp_3","pm_3",3,1
+"P073","filler (biological vs economic)","be_3","eb_3","be_3",5,-1
+"P073","filler (biological vs economic)","be_2","eb_2","eb_2",4,0
+"P073","mechanical vs psychological","pm_2","mp_2","mp_2",2,-2
+"P074","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P074","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P074","mechanical vs psychological","pm_6","mp_6","mp_6",6,2
+"P074","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P074","filler (biological vs economic)","be_5","eb_5","be_5",2,2
+"P074","filler (biological vs economic)","be_6","eb_6","eb_6",5,1
+"P075","filler (biological vs economic)","be_4","eb_4","be_4",7,-3
+"P075","mechanical vs psychological","pm_3","mp_1","mp_1",3,-1
+"P075","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P075","filler (biological vs economic)","be_6","eb_5","eb_5",5,1
+"P075","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P075","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P076","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P076","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P076","mechanical vs psychological","pm_4","mp_4","pm_4",4,0
+"P076","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P076","filler (biological vs economic)","be_1","eb_2","eb_2",6,2
+"P076","mechanical vs psychological","pm_5","mp_3","mp_3",3,-1
+"P077","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P077","filler (biological vs economic)","be_5","eb_6","be_5",5,-1
+"P077","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P077","mechanical vs psychological","pm_6","mp_2","pm_6",7,-3
+"P077","filler (biological vs economic)","be_3","eb_1","be_3",2,2
+"P077","filler (biological vs economic)","be_2","eb_3","eb_3",7,3
+"P078","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P078","filler (biological vs economic)","be_4","eb_4","eb_4",3,-1
+"P078","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P078","filler (biological vs economic)","be_5","eb_3","be_5",3,1
+"P078","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P078","mechanical vs psychological","pm_5","mp_5","pm_5",4,0
+"P079","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P079","mechanical vs psychological","pm_3","mp_1","mp_1",3,-1
+"P079","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P079","filler (biological vs economic)","be_6","eb_5","eb_5",4,0
+"P079","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P079","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P080","filler (biological vs economic)","be_4","eb_4","be_4",7,-3
+"P080","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P080","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P080","filler (biological vs economic)","be_6","eb_5","eb_5",3,-1
+"P080","filler (biological vs economic)","be_1","eb_2","eb_2",7,3
+"P080","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P081","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P081","filler (biological vs economic)","be_1","eb_1","be_1",7,-3
+"P081","mechanical vs psychological","pm_3","mp_3","pm_3",7,-3
+"P081","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P081","filler (biological vs economic)","be_2","eb_2","eb_2",7,3
+"P081","mechanical vs psychological","pm_2","mp_2","mp_2",7,3
+"P082","mechanical vs psychological","pm_4","mp_4","mp_4",5,1
+"P082","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P082","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P082","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P082","filler (biological vs economic)","be_5","eb_5","be_5",3,1
+"P082","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P083","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P083","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P083","mechanical vs psychological","pm_3","mp_4","mp_4",4,0
+"P083","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P083","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P083","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P084","mechanical vs psychological","pm_1","mp_1","pm_1",3,1
+"P084","filler (biological vs economic)","be_1","eb_1","be_1",5,-1
+"P084","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P084","filler (biological vs economic)","be_3","eb_3","be_3",5,-1
+"P084","filler (biological vs economic)","be_2","eb_2","eb_2",2,-2
+"P084","mechanical vs psychological","pm_2","mp_2","mp_2",4,0
+"P085","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P085","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P085","mechanical vs psychological","pm_1","mp_6","mp_6",3,-1
+"P085","filler (biological vs economic)","be_2","eb_6","be_2",3,1
+"P085","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P085","mechanical vs psychological","pm_2","mp_2","pm_2",2,2
+"P086","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P086","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P086","mechanical vs psychological","pm_6","mp_6","mp_6",6,2
+"P086","filler (biological vs economic)","be_4","eb_4","eb_4",3,-1
+"P086","filler (biological vs economic)","be_5","eb_5","be_5",4,0
+"P086","filler (biological vs economic)","be_6","eb_6","eb_6",5,1
+"P087","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P087","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P087","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P087","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P087","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P087","mechanical vs psychological","pm_5","mp_5","pm_5",4,0
+"P088","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P088","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P088","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P088","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P088","filler (biological vs economic)","be_1","eb_2","be_1",7,-3
+"P088","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P089","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P089","filler (biological vs economic)","be_5","eb_6","be_5",4,0
+"P089","mechanical vs psychological","pm_2","mp_6","mp_6",7,3
+"P089","mechanical vs psychological","pm_6","mp_2","pm_6",4,0
+"P089","filler (biological vs economic)","be_3","eb_1","be_3",4,0
+"P089","filler (biological vs economic)","be_2","eb_3","eb_3",1,-3
+"P090","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P090","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P090","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P090","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P090","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P090","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P091","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P091","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P091","mechanical vs psychological","pm_3","mp_3","pm_3",5,-1
+"P091","filler (biological vs economic)","be_3","eb_3","be_3",1,3
+"P091","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P091","mechanical vs psychological","pm_2","mp_2","mp_2",3,-1
+"P092","mechanical vs psychological","pm_4","mp_1","pm_4",6,-2
+"P092","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P092","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P092","filler (biological vs economic)","be_5","eb_3","be_5",2,2
+"P092","filler (biological vs economic)","be_1","eb_2","be_1",4,0
+"P092","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P093","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P093","mechanical vs psychological","pm_3","mp_1","mp_1",1,-3
+"P093","mechanical vs psychological","pm_4","mp_4","pm_4",7,-3
+"P093","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P093","filler (biological vs economic)","be_1","eb_2","eb_2",1,-3
+"P093","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P094","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P094","filler (biological vs economic)","be_5","eb_6","be_5",2,2
+"P094","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P094","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P094","filler (biological vs economic)","be_3","eb_1","be_3",2,2
+"P094","filler (biological vs economic)","be_2","eb_3","eb_3",6,2
+"P095","mechanical vs psychological","pm_4","mp_4","mp_4",1,-3
+"P095","mechanical vs psychological","pm_5","mp_5","pm_5",7,-3
+"P095","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P095","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P095","filler (biological vs economic)","be_5","eb_5","be_5",1,3
+"P095","filler (biological vs economic)","be_6","eb_6","eb_6",1,-3
+"P096","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P096","mechanical vs psychological","pm_6","mp_3","mp_3",1,-3
+"P096","mechanical vs psychological","pm_1","mp_6","mp_6",1,-3
+"P096","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P096","filler (biological vs economic)","be_3","eb_5","eb_5",3,-1
+"P096","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P097","mechanical vs psychological","pm_4","mp_4","mp_4",2,-2
+"P097","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P097","mechanical vs psychological","pm_6","mp_6","mp_6",1,-3
+"P097","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P097","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P097","filler (biological vs economic)","be_6","eb_6","eb_6",3,-1
+"P098","filler (biological vs economic)","be_6","eb_1","eb_1",5,1
+"P098","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P098","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P098","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P098","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P098","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P099","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P099","filler (biological vs economic)","be_1","eb_1","be_1",1,3
+"P099","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P099","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P099","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P099","mechanical vs psychological","pm_2","mp_2","mp_2",1,-3
+"P100","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P100","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P100","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P100","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P100","filler (biological vs economic)","be_5","eb_5","be_5",2,2
+"P100","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P102","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P102","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P102","mechanical vs psychological","pm_3","mp_4","mp_4",3,-1
+"P102","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P102","filler (biological vs economic)","be_1","eb_2","be_1",7,-3
+"P102","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P103","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P103","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P103","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P103","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P103","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P103","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P104","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P104","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P104","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P104","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P104","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P104","filler (biological vs economic)","be_6","eb_6","eb_6",4,0
+"P105","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P105","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P105","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P105","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P105","filler (biological vs economic)","be_2","eb_2","eb_2",4,0
+"P105","mechanical vs psychological","pm_2","mp_2","mp_2",5,1
+"P106","mechanical vs psychological","pm_1","mp_5","pm_1",4,0
+"P106","filler (biological vs economic)","be_5","eb_6","be_5",4,0
+"P106","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P106","mechanical vs psychological","pm_6","mp_2","pm_6",6,-2
+"P106","filler (biological vs economic)","be_3","eb_1","be_3",7,-3
+"P106","filler (biological vs economic)","be_2","eb_3","eb_3",5,1
+"P107","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P107","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P107","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P107","filler (biological vs economic)","be_4","eb_4","eb_4",3,-1
+"P107","filler (biological vs economic)","be_5","eb_5","be_5",4,0
+"P107","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P109","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P109","mechanical vs psychological","pm_6","mp_3","mp_3",2,-2
+"P109","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P109","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P109","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P109","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P110","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P110","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P110","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P110","filler (biological vs economic)","be_3","eb_3","be_3",3,1
+"P110","filler (biological vs economic)","be_2","eb_2","eb_2",2,-2
+"P110","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P111","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P111","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P111","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P111","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P111","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P111","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P112","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P112","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P112","mechanical vs psychological","pm_3","mp_3","pm_3",7,-3
+"P112","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P112","filler (biological vs economic)","be_2","eb_2","eb_2",1,-3
+"P112","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P113","filler (biological vs economic)","be_4","eb_4","be_4",7,-3
+"P113","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P113","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P113","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P113","filler (biological vs economic)","be_1","eb_2","eb_2",1,-3
+"P113","mechanical vs psychological","pm_5","mp_3","mp_3",7,3
+"P114","filler (biological vs economic)","be_6","eb_1","eb_1",2,-2
+"P114","mechanical vs psychological","pm_6","mp_3","mp_3",2,-2
+"P114","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P114","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P114","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P114","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P115","mechanical vs psychological","pm_1","mp_1","pm_1",4,0
+"P115","filler (biological vs economic)","be_1","eb_1","be_1",6,-2
+"P115","mechanical vs psychological","pm_3","mp_3","pm_3",5,-1
+"P115","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P115","filler (biological vs economic)","be_2","eb_2","eb_2",2,-2
+"P115","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P116","mechanical vs psychological","pm_4","mp_4","mp_4",3,-1
+"P116","mechanical vs psychological","pm_5","mp_5","pm_5",7,-3
+"P116","mechanical vs psychological","pm_6","mp_6","mp_6",5,1
+"P116","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P116","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P116","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P117","filler (biological vs economic)","be_4","eb_4","be_4",7,-3
+"P117","mechanical vs psychological","pm_3","mp_1","mp_1",5,1
+"P117","mechanical vs psychological","pm_4","mp_4","pm_4",3,1
+"P117","filler (biological vs economic)","be_6","eb_5","eb_5",1,-3
+"P117","filler (biological vs economic)","be_1","eb_2","eb_2",6,2
+"P117","mechanical vs psychological","pm_5","mp_3","mp_3",2,-2
+"P118","mechanical vs psychological","pm_1","mp_5","pm_1",6,-2
+"P118","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P118","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P118","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P118","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P118","filler (biological vs economic)","be_2","eb_3","eb_3",4,0
+"P119","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P119","mechanical vs psychological","pm_3","mp_1","mp_1",3,-1
+"P119","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P119","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P119","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P119","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P120","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P120","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P120","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P120","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P120","filler (biological vs economic)","be_1","eb_2","be_1",4,0
+"P120","mechanical vs psychological","pm_5","mp_5","pm_5",4,0
+"P121","filler (biological vs economic)","be_6","eb_1","eb_1",1,-3
+"P121","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P121","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P121","filler (biological vs economic)","be_2","eb_6","be_2",7,-3
+"P121","filler (biological vs economic)","be_3","eb_5","eb_5",1,-3
+"P121","mechanical vs psychological","pm_2","mp_2","pm_2",1,3
+"P122","filler (biological vs economic)","be_6","eb_1","eb_1",3,-1
+"P122","mechanical vs psychological","pm_6","mp_3","mp_3",3,-1
+"P122","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P122","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P122","filler (biological vs economic)","be_3","eb_5","eb_5",6,2
+"P122","mechanical vs psychological","pm_2","mp_2","pm_2",1,3
+"P123","mechanical vs psychological","pm_4","mp_1","pm_4",6,-2
+"P123","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P123","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P123","filler (biological vs economic)","be_5","eb_3","be_5",2,2
+"P123","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P123","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P124","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P124","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P124","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P124","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P124","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P124","mechanical vs psychological","pm_2","mp_2","pm_2",1,3
+"P125","mechanical vs psychological","pm_1","mp_1","pm_1",7,-3
+"P125","filler (biological vs economic)","be_1","eb_1","be_1",4,0
+"P125","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P125","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P125","filler (biological vs economic)","be_2","eb_2","eb_2",4,0
+"P125","mechanical vs psychological","pm_2","mp_2","mp_2",7,3
+"P126","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P126","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P126","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P126","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P126","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P126","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P127","filler (biological vs economic)","be_4","eb_4","be_4",3,1
+"P127","mechanical vs psychological","pm_3","mp_1","mp_1",5,1
+"P127","mechanical vs psychological","pm_4","mp_4","pm_4",5,-1
+"P127","filler (biological vs economic)","be_6","eb_5","eb_5",2,-2
+"P127","filler (biological vs economic)","be_1","eb_2","eb_2",6,2
+"P127","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P128","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P128","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P128","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P128","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P128","filler (biological vs economic)","be_5","eb_5","be_5",3,1
+"P128","filler (biological vs economic)","be_6","eb_6","eb_6",5,1
+"P130","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P130","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P130","mechanical vs psychological","pm_3","mp_4","mp_4",5,1
+"P130","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P130","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P130","mechanical vs psychological","pm_5","mp_5","pm_5",4,0
+"P131","mechanical vs psychological","pm_4","mp_1","pm_4",6,-2
+"P131","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P131","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P131","filler (biological vs economic)","be_5","eb_3","be_5",5,-1
+"P131","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P131","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P132","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P132","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P132","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P132","mechanical vs psychological","pm_6","mp_2","pm_6",7,-3
+"P132","filler (biological vs economic)","be_3","eb_1","be_3",4,0
+"P132","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P133","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P133","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P133","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P133","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P133","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P133","mechanical vs psychological","pm_2","mp_2","mp_2",2,-2
+"P134","mechanical vs psychological","pm_1","mp_1","pm_1",6,-2
+"P134","filler (biological vs economic)","be_1","eb_1","be_1",2,2
+"P134","mechanical vs psychological","pm_3","mp_3","pm_3",7,-3
+"P134","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P134","filler (biological vs economic)","be_2","eb_2","eb_2",1,-3
+"P134","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P135","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P135","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P135","mechanical vs psychological","pm_1","mp_6","mp_6",5,1
+"P135","filler (biological vs economic)","be_2","eb_6","be_2",5,-1
+"P135","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P135","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P136","mechanical vs psychological","pm_4","mp_4","mp_4",5,1
+"P136","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P136","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P136","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P136","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P136","filler (biological vs economic)","be_6","eb_6","eb_6",3,-1
+"P137","filler (biological vs economic)","be_6","eb_1","eb_1",3,-1
+"P137","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P137","mechanical vs psychological","pm_1","mp_6","mp_6",2,-2
+"P137","filler (biological vs economic)","be_2","eb_6","be_2",5,-1
+"P137","filler (biological vs economic)","be_3","eb_5","eb_5",2,-2
+"P137","mechanical vs psychological","pm_2","mp_2","pm_2",1,3
+"P138","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P138","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P138","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P138","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P138","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P138","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P139","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P139","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P139","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P139","mechanical vs psychological","pm_6","mp_2","pm_6",3,1
+"P139","filler (biological vs economic)","be_3","eb_1","be_3",1,3
+"P139","filler (biological vs economic)","be_2","eb_3","eb_3",4,0
+"P140","filler (biological vs economic)","be_6","eb_1","eb_1",5,1
+"P140","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P140","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P140","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P140","filler (biological vs economic)","be_3","eb_5","eb_5",3,-1
+"P140","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P141","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P141","filler (biological vs economic)","be_1","eb_1","be_1",7,-3
+"P141","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P141","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P141","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P141","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P142","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P142","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P142","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P142","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P142","filler (biological vs economic)","be_1","eb_2","be_1",7,-3
+"P142","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P143","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P143","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P143","mechanical vs psychological","pm_4","mp_4","pm_4",6,-2
+"P143","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P143","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P143","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P144","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P144","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P144","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P144","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P144","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P144","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P145","filler (biological vs economic)","be_6","eb_1","eb_1",2,-2
+"P145","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P145","mechanical vs psychological","pm_1","mp_6","mp_6",3,-1
+"P145","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P145","filler (biological vs economic)","be_3","eb_5","eb_5",4,0
+"P145","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P146","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P146","filler (biological vs economic)","be_5","eb_6","be_5",1,3
+"P146","mechanical vs psychological","pm_2","mp_6","mp_6",7,3
+"P146","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P146","filler (biological vs economic)","be_3","eb_1","be_3",1,3
+"P146","filler (biological vs economic)","be_2","eb_3","eb_3",7,3
+"P147","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P147","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P147","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P147","filler (biological vs economic)","be_5","eb_3","be_5",6,-2
+"P147","filler (biological vs economic)","be_1","eb_2","be_1",3,1
+"P147","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P148","mechanical vs psychological","pm_4","mp_1","pm_4",2,2
+"P148","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P148","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P148","filler (biological vs economic)","be_5","eb_3","be_5",2,2
+"P148","filler (biological vs economic)","be_1","eb_2","be_1",2,2
+"P148","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P149","mechanical vs psychological","pm_4","mp_1","pm_4",6,-2
+"P149","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P149","mechanical vs psychological","pm_3","mp_4","mp_4",2,-2
+"P149","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P149","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P149","mechanical vs psychological","pm_5","mp_5","pm_5",7,-3
+"P150","filler (biological vs economic)","be_4","eb_4","be_4",5,-1
+"P150","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P150","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P150","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P150","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P150","mechanical vs psychological","pm_5","mp_3","mp_3",2,-2
+"P151","filler (biological vs economic)","be_6","eb_1","eb_1",3,-1
+"P151","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P151","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P151","filler (biological vs economic)","be_2","eb_6","be_2",7,-3
+"P151","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P151","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P152","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P152","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P152","mechanical vs psychological","pm_2","mp_6","mp_6",1,-3
+"P152","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P152","filler (biological vs economic)","be_3","eb_1","be_3",7,-3
+"P152","filler (biological vs economic)","be_2","eb_3","eb_3",7,3
+"P153","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P153","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P153","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P153","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P153","filler (biological vs economic)","be_1","eb_2","eb_2",3,-1
+"P153","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P154","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P154","filler (biological vs economic)","be_1","eb_1","be_1",4,0
+"P154","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P154","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P154","filler (biological vs economic)","be_2","eb_2","eb_2",3,-1
+"P154","mechanical vs psychological","pm_2","mp_2","mp_2",5,1
+"P155","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P155","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P155","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P155","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P155","filler (biological vs economic)","be_1","eb_2","be_1",4,0
+"P155","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P156","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P156","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P156","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P156","filler (biological vs economic)","be_6","eb_5","eb_5",5,1
+"P156","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P156","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P157","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P157","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P157","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P157","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P157","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P157","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P158","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P158","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P158","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P158","filler (biological vs economic)","be_2","eb_6","be_2",6,-2
+"P158","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P158","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P159","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P159","filler (biological vs economic)","be_5","eb_6","be_5",4,0
+"P159","mechanical vs psychological","pm_2","mp_6","mp_6",1,-3
+"P159","mechanical vs psychological","pm_6","mp_2","pm_6",3,1
+"P159","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P159","filler (biological vs economic)","be_2","eb_3","eb_3",5,1
+"P160","filler (biological vs economic)","be_4","eb_4","be_4",6,-2
+"P160","mechanical vs psychological","pm_3","mp_1","mp_1",5,1
+"P160","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P160","filler (biological vs economic)","be_6","eb_5","eb_5",2,-2
+"P160","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P160","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P161","filler (biological vs economic)","be_4","eb_4","be_4",5,-1
+"P161","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P161","mechanical vs psychological","pm_4","mp_4","pm_4",3,1
+"P161","filler (biological vs economic)","be_6","eb_5","eb_5",6,2
+"P161","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P161","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P162","filler (biological vs economic)","be_6","eb_1","eb_1",3,-1
+"P162","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P162","mechanical vs psychological","pm_1","mp_6","mp_6",5,1
+"P162","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P162","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P162","mechanical vs psychological","pm_2","mp_2","pm_2",6,-2
+"P163","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P163","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P163","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P163","filler (biological vs economic)","be_5","eb_3","be_5",1,3
+"P163","filler (biological vs economic)","be_1","eb_2","be_1",1,3
+"P163","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P164","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P164","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P164","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P164","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P164","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P164","filler (biological vs economic)","be_6","eb_6","eb_6",6,2
+"P165","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P165","filler (biological vs economic)","be_5","eb_6","be_5",7,-3
+"P165","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P165","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P165","filler (biological vs economic)","be_3","eb_1","be_3",5,-1
+"P165","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P166","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P166","filler (biological vs economic)","be_1","eb_1","be_1",5,-1
+"P166","mechanical vs psychological","pm_3","mp_3","pm_3",1,3
+"P166","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P166","filler (biological vs economic)","be_2","eb_2","eb_2",3,-1
+"P166","mechanical vs psychological","pm_2","mp_2","mp_2",4,0
+"P167","filler (biological vs economic)","be_4","eb_4","be_4",1,3
+"P167","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P167","mechanical vs psychological","pm_4","mp_4","pm_4",2,2
+"P167","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P167","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P167","mechanical vs psychological","pm_5","mp_3","mp_3",4,0
+"P168","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P168","filler (biological vs economic)","be_4","eb_4","eb_4",4,0
+"P168","mechanical vs psychological","pm_3","mp_4","mp_4",6,2
+"P168","filler (biological vs economic)","be_5","eb_3","be_5",5,-1
+"P168","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P168","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P170","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P170","filler (biological vs economic)","be_5","eb_6","be_5",1,3
+"P170","mechanical vs psychological","pm_2","mp_6","mp_6",1,-3
+"P170","mechanical vs psychological","pm_6","mp_2","pm_6",1,3
+"P170","filler (biological vs economic)","be_3","eb_1","be_3",1,3
+"P170","filler (biological vs economic)","be_2","eb_3","eb_3",1,-3
+"P171","filler (biological vs economic)","be_6","eb_1","eb_1",2,-2
+"P171","mechanical vs psychological","pm_6","mp_3","mp_3",3,-1
+"P171","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P171","filler (biological vs economic)","be_2","eb_6","be_2",5,-1
+"P171","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P171","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P172","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P172","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P172","mechanical vs psychological","pm_6","mp_6","mp_6",6,2
+"P172","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P172","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P172","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P173","mechanical vs psychological","pm_4","mp_4","mp_4",5,1
+"P173","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P173","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P173","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P173","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P173","filler (biological vs economic)","be_6","eb_6","eb_6",3,-1
+"P174","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P174","filler (biological vs economic)","be_5","eb_6","be_5",3,1
+"P174","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P174","mechanical vs psychological","pm_6","mp_2","pm_6",3,1
+"P174","filler (biological vs economic)","be_3","eb_1","be_3",2,2
+"P174","filler (biological vs economic)","be_2","eb_3","eb_3",5,1
+"P175","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P175","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P175","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P175","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P175","filler (biological vs economic)","be_3","eb_5","eb_5",7,3
+"P175","mechanical vs psychological","pm_2","mp_2","pm_2",7,-3
+"P176","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P176","mechanical vs psychological","pm_5","mp_5","pm_5",7,-3
+"P176","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P176","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P176","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P176","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P177","mechanical vs psychological","pm_1","mp_5","pm_1",1,3
+"P177","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P177","mechanical vs psychological","pm_2","mp_6","mp_6",6,2
+"P177","mechanical vs psychological","pm_6","mp_2","pm_6",2,2
+"P177","filler (biological vs economic)","be_3","eb_1","be_3",3,1
+"P177","filler (biological vs economic)","be_2","eb_3","eb_3",6,2
+"P178","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P178","filler (biological vs economic)","be_1","eb_1","be_1",4,0
+"P178","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P178","filler (biological vs economic)","be_3","eb_3","be_3",4,0
+"P178","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P178","mechanical vs psychological","pm_2","mp_2","mp_2",5,1
+"P179","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P179","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P179","mechanical vs psychological","pm_4","mp_4","pm_4",3,1
+"P179","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P179","filler (biological vs economic)","be_1","eb_2","eb_2",4,0
+"P179","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P180","mechanical vs psychological","pm_4","mp_4","mp_4",5,1
+"P180","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P180","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P180","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P180","filler (biological vs economic)","be_5","eb_5","be_5",5,-1
+"P180","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P181","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P181","filler (biological vs economic)","be_1","eb_1","be_1",2,2
+"P181","mechanical vs psychological","pm_3","mp_3","pm_3",2,2
+"P181","filler (biological vs economic)","be_3","eb_3","be_3",2,2
+"P181","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P181","mechanical vs psychological","pm_2","mp_2","mp_2",5,1
+"P182","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P182","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P182","mechanical vs psychological","pm_6","mp_6","mp_6",7,3
+"P182","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P182","filler (biological vs economic)","be_5","eb_5","be_5",2,2
+"P182","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P183","filler (biological vs economic)","be_6","eb_1","eb_1",5,1
+"P183","mechanical vs psychological","pm_6","mp_3","mp_3",2,-2
+"P183","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P183","filler (biological vs economic)","be_2","eb_6","be_2",3,1
+"P183","filler (biological vs economic)","be_3","eb_5","eb_5",3,-1
+"P183","mechanical vs psychological","pm_2","mp_2","pm_2",5,-1
+"P184","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P184","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P184","mechanical vs psychological","pm_6","mp_6","mp_6",1,-3
+"P184","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P184","filler (biological vs economic)","be_5","eb_5","be_5",7,-3
+"P184","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P185","filler (biological vs economic)","be_6","eb_1","eb_1",7,3
+"P185","mechanical vs psychological","pm_6","mp_3","mp_3",7,3
+"P185","mechanical vs psychological","pm_1","mp_6","mp_6",6,2
+"P185","filler (biological vs economic)","be_2","eb_6","be_2",1,3
+"P185","filler (biological vs economic)","be_3","eb_5","eb_5",5,1
+"P185","mechanical vs psychological","pm_2","mp_2","pm_2",7,-3
+"P186","mechanical vs psychological","pm_1","mp_5","pm_1",2,2
+"P186","filler (biological vs economic)","be_5","eb_6","be_5",6,-2
+"P186","mechanical vs psychological","pm_2","mp_6","mp_6",2,-2
+"P186","mechanical vs psychological","pm_6","mp_2","pm_6",4,0
+"P186","filler (biological vs economic)","be_3","eb_1","be_3",4,0
+"P186","filler (biological vs economic)","be_2","eb_3","eb_3",2,-2
+"P187","mechanical vs psychological","pm_4","mp_1","pm_4",1,3
+"P187","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P187","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P187","filler (biological vs economic)","be_5","eb_3","be_5",5,-1
+"P187","filler (biological vs economic)","be_1","eb_2","be_1",6,-2
+"P187","mechanical vs psychological","pm_5","mp_5","pm_5",3,1
+"P188","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P188","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P188","mechanical vs psychological","pm_6","mp_6","mp_6",1,-3
+"P188","filler (biological vs economic)","be_4","eb_4","eb_4",1,-3
+"P188","filler (biological vs economic)","be_5","eb_5","be_5",1,3
+"P188","filler (biological vs economic)","be_6","eb_6","eb_6",1,-3
+"P189","mechanical vs psychological","pm_4","mp_4","mp_4",4,0
+"P189","mechanical vs psychological","pm_5","mp_5","pm_5",6,-2
+"P189","mechanical vs psychological","pm_6","mp_6","mp_6",4,0
+"P189","filler (biological vs economic)","be_4","eb_4","eb_4",6,2
+"P189","filler (biological vs economic)","be_5","eb_5","be_5",4,0
+"P189","filler (biological vs economic)","be_6","eb_6","eb_6",2,-2
+"P190","mechanical vs psychological","pm_1","mp_1","pm_1",1,3
+"P190","filler (biological vs economic)","be_1","eb_1","be_1",2,2
+"P190","mechanical vs psychological","pm_3","mp_3","pm_3",6,-2
+"P190","filler (biological vs economic)","be_3","eb_3","be_3",1,3
+"P190","filler (biological vs economic)","be_2","eb_2","eb_2",6,2
+"P190","mechanical vs psychological","pm_2","mp_2","mp_2",2,-2
+"P191","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P191","mechanical vs psychological","pm_3","mp_1","mp_1",6,2
+"P191","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P191","filler (biological vs economic)","be_6","eb_5","eb_5",3,-1
+"P191","filler (biological vs economic)","be_1","eb_2","eb_2",2,-2
+"P191","mechanical vs psychological","pm_5","mp_3","mp_3",5,1
+"P192","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P192","mechanical vs psychological","pm_3","mp_1","mp_1",7,3
+"P192","mechanical vs psychological","pm_4","mp_4","pm_4",1,3
+"P192","filler (biological vs economic)","be_6","eb_5","eb_5",5,1
+"P192","filler (biological vs economic)","be_1","eb_2","eb_2",5,1
+"P192","mechanical vs psychological","pm_5","mp_3","mp_3",6,2
+"P193","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P193","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P193","mechanical vs psychological","pm_6","mp_6","mp_6",5,1
+"P193","filler (biological vs economic)","be_4","eb_4","eb_4",7,3
+"P193","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P193","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
+"P194","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P194","filler (biological vs economic)","be_1","eb_1","be_1",3,1
+"P194","mechanical vs psychological","pm_3","mp_3","pm_3",7,-3
+"P194","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P194","filler (biological vs economic)","be_2","eb_2","eb_2",5,1
+"P194","mechanical vs psychological","pm_2","mp_2","mp_2",3,-1
+"P195","mechanical vs psychological","pm_4","mp_4","mp_4",7,3
+"P195","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P195","mechanical vs psychological","pm_6","mp_6","mp_6",3,-1
+"P195","filler (biological vs economic)","be_4","eb_4","eb_4",5,1
+"P195","filler (biological vs economic)","be_5","eb_5","be_5",4,0
+"P195","filler (biological vs economic)","be_6","eb_6","eb_6",4,0
+"P196","mechanical vs psychological","pm_4","mp_1","pm_4",7,-3
+"P196","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P196","mechanical vs psychological","pm_3","mp_4","mp_4",7,3
+"P196","filler (biological vs economic)","be_5","eb_3","be_5",7,-3
+"P196","filler (biological vs economic)","be_1","eb_2","be_1",4,0
+"P196","mechanical vs psychological","pm_5","mp_5","pm_5",1,3
+"P197","filler (biological vs economic)","be_4","eb_4","be_4",2,2
+"P197","mechanical vs psychological","pm_3","mp_1","mp_1",4,0
+"P197","mechanical vs psychological","pm_4","mp_4","pm_4",3,1
+"P197","filler (biological vs economic)","be_6","eb_5","eb_5",7,3
+"P197","filler (biological vs economic)","be_1","eb_2","eb_2",7,3
+"P197","mechanical vs psychological","pm_5","mp_3","mp_3",3,-1
+"P198","filler (biological vs economic)","be_6","eb_1","eb_1",6,2
+"P198","mechanical vs psychological","pm_6","mp_3","mp_3",6,2
+"P198","mechanical vs psychological","pm_1","mp_6","mp_6",7,3
+"P198","filler (biological vs economic)","be_2","eb_6","be_2",2,2
+"P198","filler (biological vs economic)","be_3","eb_5","eb_5",4,0
+"P198","mechanical vs psychological","pm_2","mp_2","pm_2",3,1
+"P199","mechanical vs psychological","pm_1","mp_1","pm_1",2,2
+"P199","filler (biological vs economic)","be_1","eb_1","be_1",4,0
+"P199","mechanical vs psychological","pm_3","mp_3","pm_3",4,0
+"P199","filler (biological vs economic)","be_3","eb_3","be_3",6,-2
+"P199","filler (biological vs economic)","be_2","eb_2","eb_2",1,-3
+"P199","mechanical vs psychological","pm_2","mp_2","mp_2",6,2
+"P200","mechanical vs psychological","pm_4","mp_4","mp_4",6,2
+"P200","mechanical vs psychological","pm_5","mp_5","pm_5",2,2
+"P200","mechanical vs psychological","pm_6","mp_6","mp_6",2,-2
+"P200","filler (biological vs economic)","be_4","eb_4","eb_4",2,-2
+"P200","filler (biological vs economic)","be_5","eb_5","be_5",6,-2
+"P200","filler (biological vs economic)","be_6","eb_6","eb_6",7,3
