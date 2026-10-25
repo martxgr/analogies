@@ -1,301 +1,301 @@
-"pid","age","sex","ethnicity","analysed"
-"P001",32,"Female","Asian",TRUE
-"P002",53,"Male","Black",TRUE
-"P003",40,"Male","White",TRUE
-"P004",53,"Female","Asian",TRUE
-"P005",65,"Female","White",TRUE
-"P006",43,"Female","White",TRUE
-"P007",39,"Male","White",TRUE
-"P008",49,"Male","White",TRUE
-"P009",66,"Male","White",TRUE
-"P010",59,"Female","White",TRUE
-"P011",56,"Female","White",TRUE
-"P012",39,"Male","White",TRUE
-"P013",28,"Female","White",TRUE
-"P014",57,"Male","White",TRUE
-"P015",32,"Female","White",TRUE
-"P016",61,"Female","White",TRUE
-"P017",64,"Female","White",TRUE
-"P018",28,"Male","White",TRUE
-"P019",35,"Male","White",TRUE
-"P020",28,"Female","Mixed",TRUE
-"P021",75,"Male","White",TRUE
-"P022",62,"Female","White",TRUE
-"P023",57,"Male","Mixed",TRUE
-"P024",46,"Female","White",TRUE
-"P025",37,"Female","White",TRUE
-"P026",31,"Male","White",TRUE
-"P027",23,"Female","White",TRUE
-"P028",70,"Male","White",TRUE
-"P029",29,"Male","Black",TRUE
-"P030",31,"Female","White",TRUE
-"P031",42,"Male","White",TRUE
-"P032",43,"Male","White",TRUE
-"P033",73,"Male","White",TRUE
-"P034",42,"Male","Asian",TRUE
-"P035",25,"Female","Other",TRUE
-"P036",35,"Female","Mixed",TRUE
-"P037",36,"Male","White",TRUE
-"P038",29,"Male","Mixed",TRUE
-"P039",22,"Male","Black",TRUE
-"P040",29,"Male","White",TRUE
-"P041",30,"Male","Mixed",TRUE
-"P042",29,"Female","Asian",TRUE
-"P043",39,"Male","White",TRUE
-"P044",65,"Male","White",TRUE
-"P045",55,"Male","White",TRUE
-"P046",54,"Female","White",TRUE
-"P047",33,"Female","Black",TRUE
-"P048",28,"Male","Asian",TRUE
-"P049",65,"Female","Mixed",TRUE
-"P050",26,"Male","Asian",TRUE
-"P051",34,"Female","White",TRUE
-"P052",67,"Female","White",TRUE
-"P053",25,"Male","White",TRUE
-"P054",29,"Male","White",TRUE
-"P055",24,"Male","Black",TRUE
-"P056",24,"Female","Black",TRUE
-"P057",57,"Female","White",TRUE
-"P058",50,"Female","White",TRUE
-"P059",41,"Female","Black",TRUE
-"P060",32,"Female","Black",TRUE
-"P061",43,"Female","Black",TRUE
-"P062",57,"Male","Black",TRUE
-"P063",38,"Female","White",TRUE
-"P064",40,"Male","White",TRUE
-"P065",42,"Female","Black",TRUE
-"P066",28,"Male","Black",TRUE
-"P067",36,"Male","White",TRUE
-"P068",28,"Female","Black",TRUE
-"P069",25,"Female","Black",TRUE
-"P070",27,"Male","Black",TRUE
-"P071",26,"Female","Asian",TRUE
-"P072",40,"Male","Black",TRUE
-"P073",28,"Male","Black",TRUE
-"P074",35,"Female","Black",TRUE
-"P075",42,"Female","White",TRUE
-"P076",23,"Female","Black",TRUE
-"P077",28,"Female","White",TRUE
-"P078",31,"Female","Black",TRUE
-"P079",26,"Female","Black",TRUE
-"P080",32,"Female","Black",TRUE
-"P081",33,"Female","Black",TRUE
-"P082",25,"Female","Black",TRUE
-"P083",24,"Female","Black",TRUE
-"P084",50,"Female","White",TRUE
-"P085",32,"Female","Black",TRUE
-"P086",60,"Female","White",TRUE
-"P087",22,"Female","Black",TRUE
-"P088",25,"Female","White",TRUE
-"P089",28,"Male","White",TRUE
-"P090",39,"Female","Asian",TRUE
-"P091",39,"Male","White",TRUE
-"P092",29,"Male","White",TRUE
-"P093",52,"Male","White",TRUE
-"P094",56,"Female","White",FALSE
-"P095",69,"Male","White",TRUE
-"P096",54,"Male","White",TRUE
-"P097",61,"Female","White",TRUE
-"P098",45,"Female","White",TRUE
-"P099",28,"Female","Mixed",TRUE
-"P100",25,"Male","Black",TRUE
-"P101",35,"Male","White",TRUE
-"P102",47,"Female","White",TRUE
-"P103",49,"Female","Black",TRUE
-"P104",37,"Female","Black",TRUE
-"P105",27,"Female","Black",TRUE
-"P106",34,"Female","Black",TRUE
-"P107",25,"Female","Black",TRUE
-"P108",39,"Female","White",TRUE
-"P109",29,"Female","Black",TRUE
-"P110",25,"Female","Black",TRUE
-"P111",56,"Female","White",TRUE
-"P112",54,"Female","White",TRUE
-"P113",42,"Female","White",TRUE
-"P114",41,"Male","Black",TRUE
-"P115",22,"Male","Black",TRUE
-"P116",27,"Male","Black",TRUE
-"P117",24,"Male","Asian",TRUE
-"P118",23,"Male","Mixed",TRUE
-"P119",29,"Female","White",TRUE
-"P120",23,"Female","Black",TRUE
-"P121",42,"Male","White",TRUE
-"P122",53,"Female","White",TRUE
-"P123",50,"Female","White",TRUE
-"P124",22,"Male","White",TRUE
-"P125",31,"Female","Black",TRUE
-"P126",39,"Male","White",TRUE
-"P127",30,"Female","Black",TRUE
-"P128",28,"Female","White",TRUE
-"P129",26,"Male","White",TRUE
-"P130",26,"Male","Black",TRUE
-"P131",46,"Female","Black",TRUE
-"P132",29,"Female","Black",TRUE
-"P133",25,"Female","Black",TRUE
-"P134",30,"Female","Black",TRUE
-"P135",44,"Female","White",TRUE
-"P136",28,"Female","Black",TRUE
-"P137",49,"Male","White",FALSE
-"P138",27,"Female","Black",TRUE
-"P139",33,"Male","White",TRUE
-"P140",37,"Female","Black",FALSE
-"P141",38,"Female","Asian",TRUE
-"P142",33,"Female","Black",TRUE
-"P143",22,"Male","White",TRUE
-"P144",68,"Male","White",TRUE
-"P145",47,"Female","White",TRUE
-"P146",31,"Female","Black",TRUE
-"P147",38,"Male","White",FALSE
-"P148",32,"Female","Black",FALSE
-"P149",24,"Female","Black",TRUE
-"P150",26,"Female","Mixed",TRUE
-"P151",23,"Female","Black",TRUE
-"P152",21,"Female","Black",TRUE
-"P153",26,"Female","White",TRUE
-"P154",38,"Female","White",TRUE
-"P155",32,"Female","Mixed",TRUE
-"P156",20,"Female","Black",TRUE
-"P157",39,"Female","Other",TRUE
-"P158",29,"Male","Black",TRUE
-"P159",49,"Male","White",TRUE
-"P160",32,"Female","White",TRUE
-"P161",21,"Female","Black",TRUE
-"P162",20,"Female","Black",TRUE
-"P163",53,"Female","Black",TRUE
-"P164",35,"Male","Black",TRUE
-"P165",25,"Female","Black",TRUE
-"P166",24,"Female","Black",TRUE
-"P167",51,"Female","White",TRUE
-"P168",25,"Female","Black",TRUE
-"P169",65,"Female","Mixed",TRUE
-"P170",52,"Female","Black",TRUE
-"P171",29,"Male","White",TRUE
-"P172",22,"Female","Black",TRUE
-"P173",20,"Female","Black",TRUE
-"P174",53,"Male","White",TRUE
-"P175",67,"Female","White",TRUE
-"P176",55,"Female","Asian",TRUE
-"P177",28,"Female","White",TRUE
-"P178",32,"Male","Black",TRUE
-"P179",35,"Male","White",TRUE
-"P180",39,"Female","White",TRUE
-"P181",29,"Male","White",TRUE
-"P182",22,"Female","White",TRUE
-"P183",31,"Male","White",TRUE
-"P184",63,"Female","White",TRUE
-"P185",21,"Male","White",TRUE
-"P186",30,"Male","White",TRUE
-"P187",37,"Female","Black",FALSE
-"P188",22,"Male","Asian",TRUE
-"P189",23,"Male","Asian",TRUE
-"P190",83,"Male","White",TRUE
-"P191",19,"Male","Asian",TRUE
-"P192",28,"Male","Asian",TRUE
-"P193",21,"Male","White",FALSE
-"P194",22,"Male","Asian",TRUE
-"P195",25,"Female","Black",TRUE
-"P196",24,"Male","Black",TRUE
-"P197",24,"Male","Black",TRUE
-"P198",40,"Male","White",TRUE
-"P199",19,"Male","Black",TRUE
-"P200",34,"Male","White",TRUE
-"P201",24,"Female","Black",TRUE
-"P202",29,"Male","Other",TRUE
-"P203",31,"Female","White",TRUE
-"P204",23,"Male","White",TRUE
-"P205",19,"Male","Mixed",TRUE
-"P206",56,"Male","Mixed",TRUE
-"P207",26,"Male","White",TRUE
-"P208",44,"Male","White",TRUE
-"P209",28,"Male","White",TRUE
-"P210",27,"Male","Other",TRUE
-"P211",28,"Male","Black",TRUE
-"P212",38,"Female","White",TRUE
-"P213",37,"Male","Other",TRUE
-"P214",36,"Male","Mixed",TRUE
-"P215",33,"Female","Asian",TRUE
-"P216",45,"Male","Asian",TRUE
-"P217",24,"Male","Asian",FALSE
-"P218",21,"Male","Asian",TRUE
-"P219",33,"Male","Asian",TRUE
-"P220",32,"Male","White",TRUE
-"P221",46,"Female","White",TRUE
-"P222",26,"Female","Asian",TRUE
-"P223",26,"Female","White",TRUE
-"P224",31,"Male","Prefer not to say",TRUE
-"P225",24,"Male","Black",TRUE
-"P226",30,"Female","White",TRUE
-"P227",32,"Female","Black",TRUE
-"P228",26,"Male","Black",TRUE
-"P229",31,"Male","White",TRUE
-"P230",24,"Male","White",TRUE
-"P231",19,"Male","Prefer not to say",TRUE
-"P232",39,"Male","Black",TRUE
-"P233",30,"Male","White",TRUE
-"P234",41,"Male","Black",TRUE
-"P235",21,"Male","Other",TRUE
-"P236",37,"Male","Mixed",TRUE
-"P237",21,"Male","Asian",TRUE
-"P238",36,"Female","White",TRUE
-"P239",30,"Female","Black",TRUE
-"P240",21,"Male","White",TRUE
-"P241",42,"Male","Asian",TRUE
-"P242",33,"Female","White",TRUE
-"P243",46,"Female","White",TRUE
-"P244",32,"Female","White",TRUE
-"P245",21,"Female","Asian",TRUE
-"P246",20,"Male","Asian",TRUE
-"P247",50,"Male","White",TRUE
-"P248",29,"Male","White",TRUE
-"P249",24,"Male","White",TRUE
-"P250",23,"Female","Asian",TRUE
-"P251",55,"Male","White",TRUE
-"P252",46,"Male","White",TRUE
-"P253",24,"Female","Other",TRUE
-"P254",35,"Male","Black",TRUE
-"P255",46,"Male","White",TRUE
-"P256",54,"Female","White",TRUE
-"P257",35,"Male","White",TRUE
-"P258",21,"Female","Asian",TRUE
-"P259",34,"Female","White",TRUE
-"P260",37,"Female","White",TRUE
-"P261",19,"Male","Mixed",TRUE
-"P262",72,"Male","White",TRUE
-"P263",29,"Female","Other",TRUE
-"P264",27,"Male","Mixed",TRUE
-"P265",26,"Female","White",TRUE
-"P266",30,"Female","Black",TRUE
-"P267",33,"Male","Black",TRUE
-"P268",39,"Male","Black",TRUE
-"P269",39,"Male","White",TRUE
-"P270",28,"Female","Mixed",TRUE
-"P271",29,"Male","White",TRUE
-"P272",40,"Male","White",TRUE
-"P273",21,"Female","Asian",TRUE
-"P274",32,"Male","White",TRUE
-"P275",52,"Male","White",TRUE
-"P276",29,"Female","White",TRUE
-"P277",23,"Female","Other",TRUE
-"P278",36,"Male","White",TRUE
-"P279",29,"Male","Black",TRUE
-"P280",46,"Male","Black",TRUE
-"P281",24,"Male","Asian",TRUE
-"P282",35,"Male","White",TRUE
-"P283",38,"Female","Mixed",TRUE
-"P284",26,"Male","White",TRUE
-"P285",48,"Male","Black",TRUE
-"P286",51,"Male","White",TRUE
-"P287",21,"Male","White",TRUE
-"P288",25,"Male","White",TRUE
-"P289",21,"Male","White",TRUE
-"P290",40,"Male","Asian",TRUE
-"P291",23,"Male","Asian",TRUE
-"P292",46,"Female","White",TRUE
-"P293",32,"Female","Asian",FALSE
-"P294",33,"Male","Asian",TRUE
-"P295",56,"Male","Asian",TRUE
-"P296",21,"Male","White",TRUE
-"P297",30,"Male","Asian",TRUE
-"P298",26,"Female","White",TRUE
-"P299",25,"Female","Black",TRUE
-"P300",46,"Female","Black",TRUE
+"","Submission.id","Participant.id","Status","Custom.study.tncs.accepted.at","Started.at","Completed.at","Reviewed.at","Archived.at","Time.taken","Completion.code","Total.approvals","Age","Sex","Ethnicity.simplified","Country.of.birth","Country.of.residence","Nationality","Language","Student.status","Employment.status"
+"1","6aa6de93d0297de090a9db61","6980a4e2ebfd776f1d17dc22","APPROVED","Not Applicable","2026-09-13T17:38:28.517000Z","2026-09-13T17:48:02.657000Z","2026-09-13T20:24:32.296000Z","2026-09-13T17:48:03.064563Z",575,"CB8F67XM",789,"22","Male","Asian","India","India","India","Hindi","Yes","Full-Time"
+"2","6aa6ded9df570578f11eb089","664bb8e42116948d53b19326","APPROVED","Not Applicable","2026-09-13T17:35:44.016000Z","2026-09-13T17:47:35.593000Z","2026-09-13T20:24:32.569000Z","2026-09-13T17:47:36.006013Z",712,"CB8F67XM",506,"27","Male","Black","Kenya","Kenya","Kenya","English","No","Full-Time"
+"3","6aa6dedfabf682fc087b3689","60ec54c58f88686dadb1a0c9","APPROVED","Not Applicable","2026-09-13T17:35:30.292000Z","2026-09-13T17:40:14.689000Z","2026-09-13T20:24:32.849000Z","2026-09-13T17:40:15.094396Z",285,"CB8F67XM",20956,"36","Male","White","United States","United States","United States","English","No","Full-Time"
+"4","6aa6deec6cf3f2e35f092a5a","69f65fb53b207efe225cea3a","APPROVED","Not Applicable","2026-09-13T17:35:44.080000Z","2026-09-13T17:38:33.937000Z","2026-09-13T20:24:33.129000Z","2026-09-13T17:38:34.358977Z",170,"CB8F67XM",413,"37","Male","Mixed","United States","United States","United States","English","No","Full-Time"
+"5","6aa6df18e0a1d9b5d33194e4","6a25d6e67afda4704c256aff","APPROVED","Not Applicable","2026-09-13T17:36:24.805000Z","2026-09-13T17:39:51.942000Z","2026-09-13T20:24:33.422000Z","2026-09-13T17:39:52.327145Z",208,"CB8F67XM",120,"26","Male","White","Hungary","Hungary","Hungary","Hungarian","No","Full-Time"
+"6","6aa6df252e60a09b4a0e8cb0","6967874b1a8d2f72958a3582","APPROVED","Not Applicable","2026-09-13T17:38:13.723000Z","2026-09-13T17:42:21.426000Z","2026-09-13T20:24:33.697000Z","2026-09-13T17:42:21.811574Z",248,"CB8F67XM",582,"29","Male","White","Belgium","Belgium","Belgium","Dutch","No","Full-Time"
+"7","6aa6df277ccd22fa70d028d0","66a4fe6efff885077be011bc","APPROVED","Not Applicable","2026-09-13T17:36:49.861000Z","2026-09-13T17:47:05.253000Z","2026-09-13T20:24:33.951000Z","2026-09-13T17:47:05.649150Z",616,"CB8F67XM",512,"26","Male","White","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"8","6aa6df3e646252af8fb742f6","6310c063bd0cce86b0289d20","APPROVED","Not Applicable","2026-09-13T17:37:09.078000Z","2026-09-13T17:46:56.687000Z","2026-09-13T20:24:34.237000Z","2026-09-13T17:46:57.065187Z",588,"CB8F67XM",6824,"29","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"9","6aa6df6a28d0e33f0145d88d","5e9133f704391d46ee2bcb31","APPROVED","Not Applicable","2026-09-13T17:37:51.286000Z","2026-09-13T17:50:17.658000Z","2026-09-13T20:24:34.519000Z","2026-09-13T17:50:18.065819Z",747,"CB8F67XM",3019,"29","Male","Mixed","Chile","Chile","Chile","Spanish","DATA_EXPIRED","DATA_EXPIRED"
+"10","6aa6df84f6dd4e582def4d4e","66293ab7b323f5f7ce785c38","APPROVED","Not Applicable","2026-09-13T17:38:46.618000Z","2026-09-13T17:46:34.789000Z","2026-09-13T20:24:45.652000Z","2026-09-13T17:46:35.193533Z",469,"CB8F67XM",6869,"56","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"11","6aa6df8ea5838582bfc79ed3","5f086edf1a4e890792a6c0b0","APPROVED","Not Applicable","2026-09-13T17:38:33.207000Z","2026-09-13T17:45:26.334000Z","2026-09-13T20:24:45.911000Z","2026-09-13T17:45:26.925485Z",414,"CB8F67XM",4383,"54","Female","White","France","France","France","French","No","DATA_EXPIRED"
+"12","6aa6df908f73fa71acb23129","59e7a66e62637600014a7d69","APPROVED","Not Applicable","2026-09-13T17:38:27.455000Z","2026-09-13T17:43:20.092000Z","2026-09-13T20:24:46.172000Z","2026-09-13T17:43:20.485413Z",293,"CB8F67XM",6261,"65","Female","White","United States","United States","United States","English","No","Full-Time"
+"13","6aa6df96ad5e4923dff67342","69861227e96662416a5b08ac","APPROVED","Not Applicable","2026-09-13T17:40:56.880000Z","2026-09-13T17:50:39.350000Z","2026-09-13T20:24:34.808000Z","2026-09-13T17:50:39.753242Z",583,"CB8F67XM",437,"34","Male","White","United States","United States","United States","English","No","Full-Time"
+"14","6aa6dfa5af0b109da0a955a2","6934790f575322bf478eafc3","APPROVED","Not Applicable","2026-09-13T17:38:48.844000Z","2026-09-13T17:42:25.326000Z","2026-09-13T20:24:35.094000Z","2026-09-13T17:42:25.761965Z",217,"CB8F67XM",509,"35","Male","White","Canada","Canada","Canada","English","No","Full-Time"
+"15","6aa6dfa6af32b470756130f4","6a0a3aad897b5c34a76e4f98","APPROVED","Not Applicable","2026-09-13T17:38:48.429000Z","2026-09-13T17:48:42.016000Z","2026-09-13T20:24:46.421000Z","2026-09-13T17:48:42.419969Z",594,"CB8F67XM",86,"23","Female","Asian","Ireland","Ireland","Ireland","English","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"16","6aa6dfa7dcee0e278b13dcc8","6998a751e442e9740a1fc66f","APPROVED","Not Applicable","2026-09-13T17:38:50.911000Z","2026-09-13T17:50:14.545000Z","2026-09-13T20:24:35.355000Z","2026-09-13T17:50:14.919316Z",684,"CB8F67XM",146,"37","Male","Other","Egypt","Egypt","Egypt","Arabic","No","Unemployed (and job seeking)"
+"17","6aa6dfa8f37dc1b3bb6214ef","6a052510b32afc26bca2eb6e","APPROVED","Not Applicable","2026-09-13T17:38:53.434000Z","2026-09-13T17:45:02.170000Z","2026-09-13T20:24:35.626000Z","2026-09-13T17:45:02.557661Z",369,"CB8F67XM",63,"20","Male","Asian","India","India","India","Telugu","Yes","Unemployed (and job seeking)"
+"18","6aa6dfb92be72dd5b631950a","672640a25e14c023bf62cd6e","APPROVED","Not Applicable","2026-09-13T17:39:14.523000Z","2026-09-13T17:45:56.524000Z","2026-09-13T20:24:46.673000Z","2026-09-13T17:45:56.943323Z",403,"CB8F67XM",199,"24","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"19","6aa6dfbc44f00a64fdfecf02","69a0f8125dd2bfa501961c0b","APPROVED","Not Applicable","2026-09-13T17:39:18.622000Z","2026-09-13T17:47:15.552000Z","2026-09-13T20:24:35.898000Z","2026-09-13T17:47:15.946604Z",477,"CB8F67XM",568,"45","Male","Asian","Canada","Canada","Canada","English","No","Full-Time"
+"20","6aa6dfe3097e287627be73d3","5d959fdf9cf6ab001982afee","APPROVED","Not Applicable","2026-09-13T17:39:50.586000Z","2026-09-13T17:49:40.466000Z","2026-09-13T20:24:36.160000Z","2026-09-13T17:49:40.855093Z",590,"CB8F67XM",6286,"42","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"21","6aa6dff93a435a3ab688d0c8","612623ba3587740afab0b41c","APPROVED","Not Applicable","2026-09-13T17:40:29.658000Z","2026-09-13T17:45:27.662000Z","2026-09-13T20:24:46.936000Z","2026-09-13T17:45:28.065192Z",299,"CB8F67XM",351,"28","Female","White","Poland","Poland","Poland","Polish","No","Full-Time"
+"22","6aa6dffa4eee1639eaefe787","6a0c4ebfa54e06e8983ae3d7","APPROVED","Not Applicable","2026-09-13T17:44:40.922000Z","2026-09-13T17:49:55.774000Z","2026-09-13T20:24:47.213000Z","2026-09-13T17:49:56.180801Z",315,"CB8F67XM",717,"24","Female","Other","Canada","Canada","Canada","English","Yes","Unemployed (and job seeking)"
+"23","6aa6dffd4870ecd846aefc4b","699888c9f2338779a67b108f","APPROVED","Not Applicable","2026-09-13T17:41:00.697000Z","2026-09-13T17:45:28.715000Z","2026-09-13T20:24:47.488000Z","2026-09-13T17:45:29.104025Z",269,"CB8F67XM",517,"38","Female","White","Canada","Canada","United States","English","No","Unemployed (and job seeking)"
+"24","6aa6e002a32e1a59ca6037e1","6a302db80d7bb949f4536695","APPROVED","Not Applicable","2026-09-13T17:40:22.430000Z","2026-09-13T17:46:56.088000Z","2026-09-13T20:24:36.424000Z","2026-09-13T17:46:56.511237Z",394,"CB8F67XM",767,"51","Male","White","United States","United States","United States","English","No","Full-Time"
+"25","6aa6e025fb1eb79324cb762f","65b549c67c7791499c09f8a2","APPROVED","Not Applicable","2026-09-13T17:42:44.898000Z","2026-09-13T17:47:30.159000Z","2026-09-13T20:24:47.781000Z","2026-09-13T17:47:30.577181Z",286,"CB8F67XM",8005,"47","Female","White","United States","United States","United States","English","No","Part-Time"
+"26","6aa6e026c1efc463f4520c3b","5f53f6458dff8f755bac4a9d","APPROVED","Not Applicable","2026-09-13T17:41:02.087000Z","2026-09-13T17:46:35.352000Z","2026-09-13T20:24:36.665000Z","2026-09-13T17:46:35.728289Z",334,"CB8F67XM",5265,"25","Male","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"27","6aa6e044299849fffccf735d","67286b26eda1a73d19160079","APPROVED","Not Applicable","2026-09-13T17:48:11.391000Z","2026-09-13T18:02:38.710000Z","2026-09-13T20:24:48.071000Z","2026-09-13T18:02:39.090422Z",868,"CB8F67XM",833,"26","Female","Mixed","South Africa","South Africa","South Africa","Afrikaans","No","Full-Time"
+"28","6aa6e045918a779e3d40d795","6a1a7e9418353d1a86131739","APPROVED","Not Applicable","2026-09-13T17:41:31.982000Z","2026-09-13T17:51:13.270000Z","2026-09-13T20:24:36.941000Z","2026-09-13T17:51:13.691400Z",582,"CB8F67XM",2146,"40","Male","White","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"29","6aa6e046feb67ad43a1beac7","5af6e439672ea800010d4e92","APPROVED","Not Applicable","2026-09-13T17:41:31.187000Z","2026-09-13T17:46:50.231000Z","2026-09-13T20:24:37.206000Z","2026-09-13T17:46:50.613836Z",320,"CB8F67XM",7427,"66","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"30","6aa6e051579da992c471b8d8","6a4f8fa2a4f55151ab3b556c","APPROVED","Not Applicable","2026-09-13T17:41:37.724000Z","2026-09-13T17:50:50.509000Z","2026-09-13T20:24:37.456000Z","2026-09-13T17:50:50.887642Z",553,"CB8F67XM",127,"23","Male","Asian","India","India","India","Hindi","No","Part-Time"
+"31","6aa6e064400ff4d4efa6e26d","66b73f9ba035651170b94c76","APPROVED","Not Applicable","2026-09-13T17:42:01.420000Z","2026-09-13T17:46:17.493000Z","2026-09-13T20:24:48.335000Z","2026-09-13T17:46:17.885901Z",257,"CB8F67XM",10045,"44","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"32","6aa6e0647eab81b5cf8e3cbb","6990a46503d56089a5b4f966","APPROVED","Not Applicable","2026-09-13T17:42:18.272000Z","2026-09-13T17:51:05.406000Z","2026-09-13T20:24:37.712000Z","2026-09-13T17:51:05.788619Z",528,"CB8F67XM",281,"44","Male","White","Colombia","Colombia","Colombia","Spanish","No","Full-Time"
+"33","6aa6e07f604c84c0d972db4d","5c110067753adc00015913e3","APPROVED","Not Applicable","2026-09-13T17:42:28.674000Z","2026-09-13T17:53:38.900000Z","2026-09-13T20:24:48.624000Z","2026-09-13T17:53:39.293668Z",671,"CB8F67XM",8098,"64","Female","White","United States","United States","United States","English","No","Full-Time"
+"34","6aa6e097f931c5cebb24a1df","660d8785249023610cc02782","APPROVED","Not Applicable","2026-09-13T17:42:47.184000Z","2026-09-13T17:52:03.600000Z","2026-09-13T20:24:48.882000Z","2026-09-13T17:52:03.989473Z",557,"CB8F67XM",928,"25","Female","Black","South Africa","South Africa","South Africa","English","Yes","DATA_EXPIRED"
+"35","6aa6e0b2d0c1aae6a50efc8b","672fbd9ae760c81b7cc012f4","APPROVED","Not Applicable","2026-09-13T17:43:19.502000Z","2026-09-13T17:47:21.932000Z","2026-09-13T20:24:49.136000Z","2026-09-13T17:47:22.329055Z",243,"CB8F67XM",390,"26","Female","White","Canada","Canada","Canada","English","No","Full-Time"
+"36","6aa6e0c9b237c522e7812781","69f582c3a034764e79a9e140","APPROVED","Not Applicable","2026-09-13T17:43:53.118000Z","2026-09-13T17:59:19.744000Z","2026-09-13T20:24:37.976000Z","2026-09-13T17:59:20.155539Z",927,"CB8F67XM",2870,"41","Male","Black","United States","United States","United States","English","No","Part-Time"
+"37","6aa6e0ec1360e315df9b312e","5b90635a877eab0001d7ba9e","APPROVED","Not Applicable","2026-09-13T17:44:14.847000Z","2026-09-13T17:51:48.125000Z","2026-09-13T20:24:38.225000Z","2026-09-13T17:51:48.625411Z",454,"CB8F67XM",4402,"39","Male","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED"
+"38","6aa6e114c0126da175ae702c","6a256efb73cc856cab65b083","APPROVED","Not Applicable","2026-09-13T17:45:13.188000Z","2026-09-13T17:53:00.044000Z","2026-09-13T20:24:38.508000Z","2026-09-13T17:53:00.437290Z",467,"CB8F67XM",858,"35","Male","White","Netherlands","United Kingdom","United Kingdom","English","No","Full-Time"
+"39","6aa6e11e521a155559efe743","60f3e04d8fcde4e8624c1ec9","APPROVED","Not Applicable","2026-09-13T17:45:44.869000Z","2026-09-13T17:53:06.403000Z","2026-09-13T20:24:49.997000Z","2026-09-13T17:53:06.813955Z",442,"CB8F67XM",613,"28","Female","Black","Zimbabwe","South Africa","Zimbabwe","English","DATA_EXPIRED","DATA_EXPIRED"
+"40","6aa6e11f1adcc6f5268171fe","697d24ec78d87cc0203076c5","APPROVED","Not Applicable","2026-09-13T17:45:15.834000Z","2026-09-13T17:58:06.407000Z","2026-09-13T20:24:38.807000Z","2026-09-13T17:58:06.825616Z",771,"CB8F67XM",2660,"83","Male","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"41","6aa6e12343fb55b0c3abc1b5","6a25cc5365ceeffe5efa1e85","APPROVED","Not Applicable","2026-09-13T17:45:26.607000Z","2026-09-13T17:52:59.225000Z","2026-09-13T20:24:50.276000Z","2026-09-13T17:52:59.650098Z",453,"CB8F67XM",2,"38","Female","Mixed","Russian Federation","Israel","Russian Federation","Russian","Yes","Other"
+"42","6aa6e12bc82cba91ef449476","6a6663944f641602175012be","APPROVED","Not Applicable","2026-09-13T17:45:33.374000Z","2026-09-13T17:53:05.192000Z","2026-09-13T20:24:50.530000Z","2026-09-13T17:53:05.586415Z",452,"CB8F67XM",25,"32","Female","Asian","India","India","India","English","No","Full-Time"
+"43","6aa6e12ffe1e04437dda9dcc","6a0f30da86ba006add35d5d0","APPROVED","Not Applicable","2026-09-13T17:45:25.316000Z","2026-09-13T17:54:16.876000Z","2026-09-13T20:24:50.797000Z","2026-09-13T17:54:17.280344Z",532,"CB8F67XM",515,"37","Female","White","Poland","Poland","Poland","Polish","No","Full-Time"
+"44","6aa6e1729d0d4b57122604fc","69e7dede938d7a2dfc8c7d90","APPROVED","Not Applicable","2026-09-13T17:46:32.550000Z","2026-09-13T17:49:17.149000Z","2026-09-13T20:24:39.075000Z","2026-09-13T17:49:17.538460Z",165,"CB8F67XM",167,"24","Male","White","United Kingdom","United Kingdom","United Kingdom","English","Yes","Full-Time"
+"45","6aa6e172feb67ad43a1beae1","66387368dfb76c70570b9579","APPROVED","Not Applicable","2026-09-13T17:46:30.729000Z","2026-09-13T17:57:17.468000Z","2026-09-13T20:24:39.349000Z","2026-09-13T17:57:17.871644Z",647,"CB8F67XM",244,"22","Male","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)"
+"46","6aa6e1765a142cb694b6fe28","614f23fabc0fcaa3cdfb9e05","APPROVED","Not Applicable","2026-09-13T17:46:34.033000Z","2026-09-13T17:51:44.919000Z","2026-09-13T20:24:51.038000Z","2026-09-13T17:51:45.307749Z",311,"CB8F67XM",10230,"50","Female","White","United States","United States","United States","English","No","Part-Time"
+"47","6aa6e1781caf833657fecf14","60719da557d8241609b26e83","APPROVED","Not Applicable","2026-09-13T17:50:29.104000Z","2026-09-13T17:59:58.727000Z","2026-09-13T20:24:51.277000Z","2026-09-13T17:59:59.112946Z",570,"CB8F67XM",3230,"41","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"48","6aa6e19d85922a4b50c3d0f4","5eac2a8bf51f94237e265659","APPROVED","Not Applicable","2026-09-13T17:47:09.767000Z","2026-09-13T18:01:07.407000Z","2026-09-13T20:24:39.605000Z","2026-09-13T18:01:07.783384Z",838,"CB8F67XM",1407,"22","Male","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"49","6aa6e1ac2b9c9e5d3aea8fd7","6730fe2f478b7dfc11a741a0","APPROVED","Not Applicable","2026-09-13T17:47:30.363000Z","2026-09-13T17:56:35.160000Z","2026-09-13T20:24:51.585000Z","2026-09-13T17:56:35.548354Z",545,"CB8F67XM",474,"38","Female","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED"
+"50","6aa6e1d79ccd73175b3c3dc1","6a971bb2a0cfddd9cafa1160","APPROVED","Not Applicable","2026-09-13T17:48:12.028000Z","2026-09-13T17:57:54.865000Z","2026-09-13T20:24:39.876000Z","2026-09-13T17:57:55.268785Z",583,"CB8F67XM",21,"30","Male","Asian","India","India","India","Bengali","No","Full-Time"
+"51","6aa6e1ec77de2c3c482dcbe7","6728ecedf5bbc7e4c0d02332","APPROVED","Not Applicable","2026-09-13T17:48:41.705000Z","2026-09-13T17:58:33.397000Z","2026-09-13T20:24:51.873000Z","2026-09-13T17:58:33.824775Z",592,"CB8F67XM",762,"23","Female","Black","Nigeria","United Kingdom","Nigeria","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"52","6aa6e1ed56628b4a8a957b4a","667def6cb57a5f044926626f","APPROVED","Not Applicable","2026-09-13T17:48:32.753000Z","2026-09-13T17:56:31.672000Z","2026-09-13T20:24:52.160000Z","2026-09-13T17:56:32.094868Z",479,"CB8F67XM",1204,"50","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"53","6aa6e1f86aeefe5924be7389","66e9aa9cfdc4417c21920443","APPROVED","Not Applicable","2026-09-13T17:48:46.131000Z","2026-09-13T17:55:15.020000Z","2026-09-13T20:24:40.133000Z","2026-09-13T17:55:15.423060Z",389,"CB8F67XM",1690,"68","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"54","6aa6e1fc19413c2adee860d2","61352856db36ee417f4cc5fe","APPROVED","Not Applicable","2026-09-13T17:48:54.045000Z","2026-09-13T17:57:16Z","2026-09-13T20:24:52.417000Z","2026-09-13T17:57:16.425444Z",502,"CB8F67XM",488,"33","Female","Black","South Africa","South Africa","South Africa","English","No","Part-Time"
+"55","6aa6e200b53c2be820c79eb5","67dc70145c70ad07748b3f1b","APPROVED","Not Applicable","2026-09-13T17:48:56.822000Z","2026-09-13T18:02:50.741000Z","2026-09-13T20:24:40.408000Z","2026-09-13T18:02:51.168032Z",834,"CB8F67XM",2468,"29","Male","White","United States","United States","United States","English","No","Full-Time"
+"56","6aa6e206231fbcea54a514f8","69d68fef496b299d4cd8e08d","APPROVED","Not Applicable","2026-09-13T17:48:58.993000Z","2026-09-13T17:54:58.872000Z","2026-09-13T20:24:40.678000Z","2026-09-13T17:54:59.276966Z",360,"CB8F67XM",230,"24","Male","Black","South Africa","South Africa","South Africa","English","Yes","Due to start a new job within the next month"
+"57","6aa6e20695cd784b4d3e6dcc","6650d30d4396f10c42cd6503","APPROVED","Not Applicable","2026-09-13T17:52:01.329000Z","2026-09-13T17:57:54.945000Z","2026-09-13T20:24:40.958000Z","2026-09-13T17:57:55.366095Z",354,"CB8F67XM",304,"24","Male","Asian","Malaysia","Canada","Canada","English","No","Unemployed (and job seeking)"
+"58","6aa6e211fdefcbd99f8b2e42","5d879b986eecd500174bbaa3","APPROVED","Not Applicable","2026-09-13T17:49:05.625000Z","2026-09-13T17:52:11.306000Z","2026-09-13T20:24:52.661000Z","2026-09-13T17:52:11.726897Z",186,"CB8F67XM",828,"31","Female","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED"
+"59","6aa6e21fdb126c27d0d82991","65e48fd0230ec826e5cca981","APPROVED","Not Applicable","2026-09-13T17:51:15.295000Z","2026-09-13T17:56:09.358000Z","2026-09-13T20:24:52.934000Z","2026-09-13T17:56:09.725937Z",295,"CB8F67XM",1573,"27","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"60","6aa6e227a814c7a43e5aec32","5baca9c4bf876e000149b586","APPROVED","Not Applicable","2026-09-13T17:49:52.785000Z","2026-09-13T17:58:04.910000Z","2026-09-13T20:24:41.226000Z","2026-09-13T17:58:05.327723Z",493,"CB8F67XM",5649,"57","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"61","6aa6e22fd8326055af4493f9","66bb6b7e0ccbed81f3ed30a8","APPROVED","Not Applicable","2026-09-13T17:50:07.096000Z","2026-09-13T17:56:18.847000Z","2026-09-13T20:24:41.487000Z","2026-09-13T17:56:19.238592Z",372,"CB8F67XM",1229,"49","Male","White","Portugal","Portugal","Portugal","English","No","Full-Time"
+"62","6aa6e238dce90c00c6844442","69414bf4b4226ab3316f895d","APPROVED","Not Applicable","2026-09-13T17:49:49.535000Z","2026-09-13T17:53:17.883000Z","2026-09-13T20:24:53.227000Z","2026-09-13T17:53:18.273176Z",209,"CB8F67XM",1285,"39","Female","White","United States","United States","United States","English","No","Part-Time"
+"63","6aa6e23e8a817433b35e0157","5caf93416ef0d1001c761380","APPROVED","Not Applicable","2026-09-13T17:49:54.194000Z","2026-09-13T17:55:34.228000Z","2026-09-13T20:24:53.497000Z","2026-09-13T17:55:34.612754Z",341,"CB8F67XM",2272,"23","Female","White","United States","United States","United States","English","No","Part-Time"
+"64","6aa6e248a54c3ec3678e5af4","62a24e0b662fd676ce5c1189","APPROVED","Not Applicable","2026-09-13T17:50:04.467000Z","2026-09-13T17:56:23.939000Z","2026-09-13T20:24:41.760000Z","2026-09-13T17:56:24.361519Z",380,"CB8F67XM",2503,"28","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"65","6aa6e249323d4dd2a6d96601","696aa8fa40eed44bea3dd5d4","APPROVED","Not Applicable","2026-09-13T17:50:06.551000Z","2026-09-13T17:57:31.249000Z","2026-09-13T20:24:53.768000Z","2026-09-13T17:57:31.655196Z",445,"CB8F67XM",108,"22","Female","White","France","France","France","French","No","Unemployed (and job seeking)"
+"66","6aa6e24d3b6cb0d92f99ac08","66786596876079055bec6c27","APPROVED","Not Applicable","2026-09-13T17:50:36.208000Z","2026-09-13T17:55:54.678000Z","2026-09-13T20:24:41.999000Z","2026-09-13T17:55:55.090746Z",319,"CB8F67XM",4750,"42","Male","White","United States","United States","United States","English","No","Full-Time"
+"67","6aa6e25062f6caab07f2bb48","6a98de201f28413e477f2e27","APPROVED","Not Applicable","2026-09-13T17:50:15.321000Z","2026-09-13T18:00:59.152000Z","2026-09-13T20:24:54.039000Z","2026-09-13T18:00:59.558734Z",644,"CB8F67XM",88,"46","Female","Black","United States","United States","United States","English","No","Full-Time"
+"68","6aa6e253a558da65861d9d3f","60aad516e34718d318bfb44d","APPROVED","Not Applicable","2026-09-13T17:50:35.779000Z","2026-09-13T18:01:03.522000Z","2026-09-13T20:24:54.313000Z","2026-09-13T18:01:03.930369Z",628,"CB8F67XM",7011,"32","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"69","6aa6e26697f7c5594053cd0d","67d588ee7c65706eaccfb45a","APPROVED","Not Applicable","2026-09-13T17:51:19.146000Z","2026-09-13T18:00:22.165000Z","2026-09-13T20:24:54.603000Z","2026-09-13T18:00:22.734486Z",544,"CB8F67XM",321,"65","Female","Mixed","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"70","6aa6e28ca02a731d6603a290","5c4dae9a889752000156b1db","APPROVED","Not Applicable","2026-09-13T17:51:13.460000Z","2026-09-13T18:01:03.652000Z","2026-09-13T20:24:54.875000Z","2026-09-13T18:01:04.079170Z",591,"CB8F67XM",3859,"62","Female","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"71","6aa6e28e874109b76e9c3e2f","6a49f33968e9e3f09d33856b","APPROVED","Not Applicable","2026-09-13T17:51:21.585000Z","2026-09-13T17:54:26.629000Z","2026-09-13T20:24:42.259000Z","2026-09-13T17:54:27.024943Z",186,"CB8F67XM",28,"21","Male","White","Slovenia","Slovenia","Slovenia","Slovenian","Yes","Unemployed (and job seeking)"
+"72","6aa6e28f4aab7cc1fb0c0816","66c605bf16b21d64057a018b","APPROVED","Not Applicable","2026-09-13T17:51:16.395000Z","2026-09-13T18:02:37.120000Z","2026-09-13T20:24:42.509000Z","2026-09-13T18:02:37.526519Z",681,"CB8F67XM",4337,"33","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"73","6aa6e291400ff4d4efa6e28f","60c87fd059e02ef02635edc3","APPROVED","Not Applicable","2026-09-13T17:51:24.771000Z","2026-09-13T18:06:46.103000Z","2026-09-13T20:24:55.143000Z","2026-09-13T18:06:46.494218Z",922,"CB8F67XM",820,"43","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"74","6aa6e2914cfb7bfc77038191","6735fcce27c73ed3e2523794","APPROVED","Not Applicable","2026-09-13T17:51:29.641000Z","2026-09-13T17:58:50.038000Z","2026-09-13T20:24:55.407000Z","2026-09-13T17:58:50.448716Z",441,"CB8F67XM",385,"39","Female","Other","South Africa","South Africa","South Africa","English","No","Full-Time"
+"75","6aa6e29324fadbf4098df394","6a0b6a577c188f4476543c59","APPROVED","Not Applicable","2026-09-13T17:51:18.881000Z","2026-09-13T17:57:18.992000Z","2026-09-13T20:24:42.768000Z","2026-09-13T17:57:19.406681Z",361,"CB8F67XM",1214,"55","Male","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"76","6aa6e29486ccc9b6197d19b3","60fbf1d8a1d6bf084f981660","APPROVED","Not Applicable","2026-09-13T17:51:33.233000Z","2026-09-13T18:04:45.589000Z","2026-09-13T20:24:43.012000Z","2026-09-13T18:04:45.972175Z",793,"CB8F67XM",3634,"27","Male","Black","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"77","6aa6e2953b1b0b116a31a684","65fa79e73db12a036088071d","APPROVED","Not Applicable","2026-09-13T17:52:03.467000Z","2026-09-13T18:07:48.701000Z","2026-09-13T20:24:55.648000Z","2026-09-13T18:07:49.100178Z",946,"CB8F67XM",1004,"39","Female","White","Kazakhstan","Kazakhstan","Kazakhstan","Russian","DATA_EXPIRED","DATA_EXPIRED"
+"78","6aa6e2998bb2eafc44621486","6997f52328eadee098c99834","APPROVED","Not Applicable","2026-09-13T17:51:28.502000Z","2026-09-13T17:57:41.216000Z","2026-09-13T20:24:43.306000Z","2026-09-13T17:57:41.584850Z",373,"CB8F67XM",266,"28","Male","Black","Canada","Canada","Canada","English","No","Full-Time"
+"79","6aa6e29a77de2c3c482dcbf8","6716f188b131fa30ab5365c2","APPROVED","Not Applicable","2026-09-13T17:51:26.805000Z","2026-09-13T17:58:48.036000Z","2026-09-13T20:24:43.571000Z","2026-09-13T17:58:48.428033Z",442,"CB8F67XM",9202,"38","Male","White","United States","United States","United States","English","No","Full-Time"
+"80","6aa6e2b384efe7b6a1dc80dc","6a4e00428f15b1ebc9100094","APPROVED","Not Applicable","2026-09-13T17:51:47.456000Z","2026-09-13T17:57:16.600000Z","2026-09-13T20:24:43.831000Z","2026-09-13T17:57:17.026243Z",330,"CB8F67XM",204,"40","Male","Asian","United States","India","India","English","No","Full-Time"
+"81","6aa6e2b630265f074a4ecddc","6a1f3c0092600a6c593919f6","APPROVED","Not Applicable","2026-09-13T17:51:57.163000Z","2026-09-13T17:53:12.839000Z","2026-09-13T20:24:55.920000Z","2026-09-13T17:53:13.233741Z",76,"CB8F67XM",435,"29","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"82","6aa6e2c3f3d8670c06a62fe4","6a03990a214abbd5dc7d925c","APPROVED","Not Applicable","2026-09-13T17:52:37.444000Z","2026-09-13T18:00:45.196000Z","2026-09-13T20:24:56.192000Z","2026-09-13T18:00:45.575185Z",488,"CB8F67XM",919,"32","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"83","6aa6e2c50e07ad23368e3cd9","5c1942e200849900010afdcd","APPROVED","Not Applicable","2026-09-13T17:53:23.163000Z","2026-09-13T17:55:53.599000Z","2026-09-13T20:24:44.079000Z","2026-09-13T17:55:54.029920Z",151,"CB8F67XM",9129,"28","Male","White","United States","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"84","6aa6e2c51c2a7312a4e9dd9f","697f2bac2b92517e3db3061f","APPROVED","Not Applicable","2026-09-13T17:52:10.029000Z","2026-09-13T17:55:32.097000Z","2026-09-13T20:24:44.347000Z","2026-09-13T17:55:32.485556Z",203,"CB8F67XM",82,"19","Male","Asian","India","India","India","English","Yes","Other"
+"85","6aa6e2c76afa9e46c83e6e27","6a2050ba7710f40373cb1e4c","APPROVED","Not Applicable","2026-09-13T17:52:07.355000Z","2026-09-13T18:04:12.567000Z","2026-09-13T20:24:56.465000Z","2026-09-13T18:04:12.955078Z",726,"CB8F67XM",279,"23","Female","Other","Venezuela, Bolivarian Republic of","Brazil","Venezuela, Bolivarian Republic of","Spanish","No","Part-Time"
+"86","6aa6e2e1b661abbd6449c2d2","6a32bdce2fd491f9ff9a8537","APPROVED","Not Applicable","2026-09-13T17:52:33.071000Z","2026-09-13T17:58:03.617000Z","2026-09-13T20:24:44.602000Z","2026-09-13T17:58:04.011874Z",331,"CB8F67XM",26,"21","Male","White","Norway","Norway","Norway","Norwegian","Yes","Part-Time"
+"87","6aa6e2fd04e9f31f90c554df","60c9c994c019ca2e1836e7d7","APPROVED","Not Applicable","2026-09-13T17:53:01.333000Z","2026-09-13T17:59:03.029000Z","2026-09-13T20:24:44.860000Z","2026-09-13T17:59:03.449083Z",362,"CB8F67XM",1190,"57","Male","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"88","6aa6e3031ac7c15543fea44b","697cec1919fbde83225f5b87","APPROVED","Not Applicable","2026-09-13T17:53:16.271000Z","2026-09-13T17:59:12.726000Z","2026-09-13T20:24:45.119000Z","2026-09-13T17:59:13.120109Z",357,"CB8F67XM",828,"23","Male","Asian","India","India","India","Malayalam","Yes","Unemployed (and job seeking)"
+"89","6aa6e3164a34bd128bd905c2","611bb1fb49fbb5b94a8b5e46","APPROVED","Not Applicable","2026-09-13T17:53:30.734000Z","2026-09-13T17:57:01.628000Z","2026-09-13T20:24:56.762000Z","2026-09-13T17:57:02.038624Z",211,"CB8F67XM",3045,"42","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"90","6aa6e332bf1a4c042645bfed","662fa62a6ad24b3adf0cb6f8","APPROVED","Not Applicable","2026-09-13T17:53:54.293000Z","2026-09-13T17:57:15.261000Z","2026-09-13T20:24:57.032000Z","2026-09-13T17:57:15.659311Z",201,"CB8F67XM",170,"42","Female","White","Canada","Canada","Canada","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"91","6aa6e39d5e17f4a2f1e1bc8e","649d811766d859e1da8beb3d","APPROVED","Not Applicable","2026-09-13T17:55:53.670000Z","2026-09-13T18:03:42.131000Z","2026-09-13T20:24:57.295000Z","2026-09-13T18:03:42.534649Z",469,"CB8F67XM",1095,"28","Female","Mixed","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"92","6aa6e3cf6f15bd513a848068","69bf0527bafabf0e6be59f18","APPROVED","Not Applicable","2026-09-13T17:56:31.950000Z","2026-09-13T18:02:26.256000Z","2026-09-13T20:24:57.564000Z","2026-09-13T18:02:26.668848Z",355,"CB8F67XM",360,"26","Female","Asian","Canada","Canada","Philippines","English","Yes","Unemployed (and job seeking)"
+"93","6aa6e426de70448213fb9654","5a47473899311d0001df550e","APPROVED","Not Applicable","2026-09-13T18:00:29.248000Z","2026-09-13T18:06:54.353000Z","2026-09-13T20:24:57.818000Z","2026-09-13T18:06:54.750456Z",386,"CB8F67XM",9505,"43","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"94","6aa6e462596b485b16a8ff63","6120ec5f9705e01665ca1cbd","APPROVED","Not Applicable","2026-09-13T17:58:58.468000Z","2026-09-13T18:14:41.572000Z","2026-09-13T20:24:58.106000Z","2026-09-13T18:14:41.986128Z",944,"CB8F67XM",194,"23","Female","Black","Botswana","South Africa","Zambia","English","DATA_EXPIRED","DATA_EXPIRED"
+"95","6aa6e4cbffd669825680fae1","5f47d8f1e974b12169221876","APPROVED","Not Applicable","2026-09-13T18:00:52.950000Z","2026-09-13T18:04:46.270000Z","2026-09-13T20:24:58.381000Z","2026-09-13T18:04:46.674224Z",234,"CB8F67XM",3714,"34","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"96","6aa6e4dcec29d37b0b0c256b","5b3f327917ac2d00011caef2","APPROVED","Not Applicable","2026-09-13T18:01:05.057000Z","2026-09-13T18:09:58.151000Z","2026-09-13T20:24:58.643000Z","2026-09-13T18:09:58.543424Z",534,"CB8F67XM",2343,"56","Female","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED"
+"97","6aa6e4ec5a2f2422c7f6af77","66cb3e461d3bc3f143a834bb","APPROVED","Not Applicable","2026-09-13T18:01:25.638000Z","2026-09-13T18:14:16.709000Z","2026-09-13T20:24:58.896000Z","2026-09-13T18:14:17.110030Z",772,"CB8F67XM",1554,"38","Female","Asian","India","India","India","Telugu","No","Full-Time"
+"98","6aa6e502cd3f1b25d6c748da","69a0df44d00e9ca4e1a8dbba","APPROVED","Not Applicable","2026-09-13T18:01:43.891000Z","2026-09-13T18:09:09.230000Z","2026-09-13T20:24:59.160000Z","2026-09-13T18:09:09.616628Z",446,"CB8F67XM",454,"33","Female","Asian","Hong Kong","Canada","Hong Kong","Cantonese","No","Other"
+"99","6aa6e577e03cc6ff28f85ae7","6a1602689050cce832321f97","APPROVED","Not Applicable","2026-09-13T18:04:14.382000Z","2026-09-13T18:16:51.305000Z","2026-09-13T20:24:59.414000Z","2026-09-13T18:16:51.741023Z",757,"CB8F67XM",1132,"30","Female","Black","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"100","6aa6e6aacca075b7a849f4c3","5d62935aacd67c0015b06e8d","APPROVED","Not Applicable","2026-09-13T18:14:08.077000Z","2026-09-13T18:28:24.168000Z","2026-09-13T20:24:45.377000Z","2026-09-13T18:28:24.869221Z",857,"CB8F67XM",2603,"29","Male","Black","United States","United States","United States","English","Yes","Unemployed (and job seeking)"
+"101","6aa714474402860efaa647be","698df0d91d2b498241b2805b","APPROVED","Not Applicable","2026-09-13T21:23:19.906000Z","2026-09-13T21:31:33.781000Z","2026-09-13T22:49:01.914000Z","2026-09-13T21:31:34.207337Z",494,"CB8F67XM",187,"23","Male","White","Poland","Poland","Poland","Polish","Yes","Part-Time"
+"102","6aa714474909a1805f0bb383","69ef7af401f65f406ca12641","APPROVED","Not Applicable","2026-09-13T21:23:23.051000Z","2026-09-13T21:29:54.457000Z","2026-09-13T22:49:02.192000Z","2026-09-13T21:29:54.838774Z",392,"CB8F67XM",1125,"39","Male","Black","Nigeria","Canada","Canada","English","Yes","Unemployed (and job seeking)"
+"103","6aa714492c000e8597a6a16a","698f652f86b53ff3d617635f","APPROVED","Not Applicable","2026-09-13T21:23:27.889000Z","2026-09-13T21:29:26.033000Z","2026-09-13T22:49:02.472000Z","2026-09-13T21:29:26.467817Z",359,"CB8F67XM",118,"26","Male","White","Poland","Poland","Poland","Polish","Yes","Due to start a new job within the next month"
+"104","6aa7144aa3f33eb1ffb74300","5ac976e9e734400001da60c2","APPROVED","Not Applicable","2026-09-13T21:23:31.810000Z","2026-09-13T21:29:08.297000Z","2026-09-13T22:49:02.741000Z","2026-09-13T21:29:08.681084Z",337,"CB8F67XM",1047,"49","Male","White","Australia","Australia","Australia","English","No","Full-Time"
+"105","6aa7144ecafdff422ac42a23","60e03d1a38377874405de5ed","APPROVED","Not Applicable","2026-09-13T21:23:37.794000Z","2026-09-13T21:32:17.629000Z","2026-09-13T22:49:03.001000Z","2026-09-13T21:32:18.025738Z",520,"CB8F67XM",411,"28","Male","Black","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"106","6aa7145106c23f798d99ac19","66a502272f546f0bf6174944","APPROVED","Not Applicable","2026-09-13T21:23:37.824000Z","2026-09-13T21:44:15.971000Z","2026-09-13T22:49:03.267000Z","2026-09-13T22:32:27.554951Z",1239,"CB8F67XM",1158,"26","Male","Black","South Africa","South Africa","South Africa","English","Yes","DATA_EXPIRED"
+"107","6aa71451386b2516247d1996","69ae6fc1aa45f5a96d9492c4","APPROVED","Not Applicable","2026-09-13T21:23:58.623000Z","2026-09-13T21:29:49.973000Z","2026-09-13T22:49:03.535000Z","2026-09-13T21:29:50.379374Z",352,"CB8F67XM",690,"21","Male","Asian","Vietnam","Canada","Vietnam","Vietnamese","Yes","Unemployed (and job seeking)"
+"108","6aa71453a49b4a34f01de337","6a0b7f756d6c72a9807cb508","APPROVED","Not Applicable","2026-09-13T21:23:35.752000Z","2026-09-13T21:34:41.022000Z","2026-09-13T22:49:03.818000Z","2026-09-13T21:34:41.388048Z",666,"CB8F67XM",515,"46","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"109","6aa71454725a0a3e0b473ee4","5f97f80e8279d602b5dfd6b1","APPROVED","Not Applicable","2026-09-13T21:23:54.923000Z","2026-09-13T21:37:35.242000Z","2026-09-13T22:49:04.077000Z","2026-09-13T21:37:35.666080Z",821,"CB8F67XM",1458,"24","Male","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"110","6aa7145599cf701e1217912c","6653501881b7b5eff113a16d","APPROVED","Not Applicable","2026-09-13T21:23:39.132000Z","2026-09-13T21:31:10.996000Z","2026-09-13T22:49:04.345000Z","2026-09-13T21:31:11.407117Z",452,"CB8F67XM",462,"23","Male","Mixed","Thailand","Sweden","Sweden","English","Yes","Part-Time"
+"111","6aa714572ab1b05bd19d9fd1","6a0e07f726dfea34456a84b7","APPROVED","Not Applicable","2026-09-13T21:23:38.012000Z","2026-09-13T21:27:55.832000Z","2026-09-13T22:49:16.235000Z","2026-09-13T21:27:57.232117Z",258,"CB8F67XM",121,"21","Female","Asian","United Kingdom","United Kingdom","United Kingdom","English","Yes","Part-Time"
+"112","6aa71458c4cfe7a15d8171ea","55fc2b4377f33b000ecb21ed","APPROVED","Not Applicable","2026-09-13T21:23:40.213000Z","2026-09-13T21:27:13.487000Z","2026-09-13T22:49:04.613000Z","2026-09-13T21:27:13.858583Z",214,"CB8F67XM",5544,"40","Male","White","United States","United States","United States","English","No","Full-Time"
+"113","6aa714592939a977795fe4c3","5d1511f1e814b800016108a6","APPROVED","Not Applicable","2026-09-13T21:23:43.917000Z","2026-09-13T21:28:44.083000Z","2026-09-13T22:49:04.892000Z","2026-09-13T21:28:44.457222Z",301,"CB8F67XM",18259,"70","Male","White","United States","United States","United States","English","No","Full-Time"
+"114","6aa714595b7638ea0b8f827b","5caca4e291d3ab00171cdeb0","APPROVED","Not Applicable","2026-09-13T21:23:40.472000Z","2026-09-13T21:28:45.586000Z","2026-09-13T22:49:05.178000Z","2026-09-13T21:28:45.976200Z",306,"CB8F67XM",3010,"31","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"115","6aa71459cc9487316880de14","5c1b9212bfd9220001a9ada0","APPROVED","Not Applicable","2026-09-13T21:25:41.175000Z","2026-09-13T21:32:56.625000Z","2026-09-13T22:49:05.498000Z","2026-09-13T21:32:57.021617Z",436,"CB8F67XM",14847,"35","Male","White","United States","United States","United States","English","No","Full-Time"
+"116","6aa7145a9e7a1a5a8156e805","66db37838cd6f75f57d97183","APPROVED","Not Applicable","2026-09-13T21:23:41.290000Z","2026-09-13T21:33:53.674000Z","2026-09-13T22:49:05.784000Z","2026-09-13T21:33:54.098479Z",613,"CB8F67XM",48,"22","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Due to start a new job within the next month"
+"117","6aa7145ba28f98c51db244f4","69e627883e3e976f4d74e46b","APPROVED","Not Applicable","2026-09-13T21:23:44.505000Z","2026-09-13T21:26:55.688000Z","2026-09-13T22:49:06.063000Z","2026-09-13T21:26:56.077320Z",192,"CB8F67XM",734,"31","Male","White","United States","United States","United States","English","No","Full-Time"
+"118","6aa7145bb9c1ce5cd4ee7c62","69e06cd977caa0152017abb7","APPROVED","Not Applicable","2026-09-13T21:23:43.295000Z","2026-09-13T21:33:45.773000Z","2026-09-13T22:49:06.338000Z","2026-09-13T21:33:46.155563Z",603,"CB8F67XM",302,"26","Male","Black","United States","United States","United States","English","No","Due to start a new job within the next month"
+"119","6aa7145c70900639c1ccfebf","653a727ef74072aa4240204a","APPROVED","Not Applicable","2026-09-13T21:23:44.310000Z","2026-09-13T21:29:04.633000Z","2026-09-13T22:49:06.611000Z","2026-09-13T21:29:05.026225Z",321,"CB8F67XM",2591,"25","Male","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time"
+"120","6aa7145df55eb075a7db3141","6995cfa2905a5d9695818e4d","APPROVED","Not Applicable","2026-09-13T21:23:41.980000Z","2026-09-13T21:35:30.744000Z","2026-09-13T22:49:06.905000Z","2026-09-13T21:35:31.151248Z",709,"CB8F67XM",79,"27","Male","Other","Chile","Chile","Chile","Spanish","Yes","Part-Time"
+"121","6aa7145f666db9d754aefc1b","69838c967c78c6ef18426fba","APPROVED","Not Applicable","2026-09-13T21:24:31.156000Z","2026-09-13T21:33:45.808000Z","2026-09-13T22:49:07.195000Z","2026-09-13T21:33:46.181480Z",555,"CB8F67XM",8222,"40","Male","White","United States","United States","United States","English","No","Full-Time"
+"122","6aa714615b1a89e7e789fcfc","6a19150c67e3e3613e9a17be","APPROVED","Not Applicable","2026-09-13T21:23:51.962000Z","2026-09-13T21:34:47.479000Z","2026-09-13T22:49:07.464000Z","2026-09-13T21:34:47.870108Z",656,"CB8F67XM",485,"39","Male","White","Australia","Australia","Australia","English","No","Full-Time"
+"123","6aa71461820739bdf7f6af40","63614af3f714542282bd139b","APPROVED","Not Applicable","2026-09-13T21:23:48.940000Z","2026-09-13T21:28:44.021000Z","2026-09-13T22:49:07.733000Z","2026-09-13T21:28:44.427213Z",296,"CB8F67XM",7799,"52","Male","White","United States","United States","United States","English","No","Full-Time"
+"124","6aa71462750083b839430b89","699a18634122bcaa9389d354","APPROVED","Not Applicable","2026-09-13T21:23:46.291000Z","2026-09-13T21:28:34.208000Z","2026-09-13T22:49:08.001000Z","2026-09-13T21:28:34.586227Z",288,"CB8F67XM",323,"36","Male","Mixed","Chile","Chile","Chile","Spanish","No","Full-Time"
+"125","6aa714630e2aff51010aac9d","6a0c86c4fe89dcf8ce1722ec","APPROVED","Not Applicable","2026-09-13T21:23:52.175000Z","2026-09-13T21:28:06.211000Z","2026-09-13T22:49:08.267000Z","2026-09-13T21:28:06.606683Z",255,"CB8F67XM",318,"46","Male","White","Canada","Canada","Canada","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"126","6aa7146324d34365996eade5","698e0c45e7907168d29d5b02","APPROVED","Not Applicable","2026-09-13T21:24:05.468000Z","2026-09-13T21:30:11.252000Z","2026-09-13T22:49:08.542000Z","2026-09-13T21:30:11.672270Z",366,"CB8F67XM",581,"19","Male","Mixed","Colombia","Colombia","Colombia","Spanish","Yes","Part-Time"
+"127","6aa7146532adb21852f2bb1d","5c4e82cd6aeb5d000101b178","APPROVED","Not Applicable","2026-09-13T21:26:37.835000Z","2026-09-13T21:36:44.911000Z","2026-09-13T22:49:08.817000Z","2026-09-13T21:36:45.288521Z",608,"CB8F67XM",2969,"57","Male","Mixed","United States","Mexico","United States","English","DATA_EXPIRED","Full-Time"
+"128","6aa714653418f9a27752a896","698315b1a6076d9df00a37c5","APPROVED","Not Applicable","2026-09-13T21:23:49.708000Z","2026-09-13T21:34:20.732000Z","2026-09-13T22:49:09.094000Z","2026-09-13T21:34:21.170054Z",632,"CB8F67XM",125,"24","Male","Black","Kenya","Kenya","Kenya","English","No","Part-Time"
+"129","6aa71466aa57f8942280ddec","6a1a4eb9844cc3dbe55a2ae0","APPROVED","Not Applicable","2026-09-13T21:23:50.037000Z","2026-09-13T21:31:19.967000Z","2026-09-13T22:49:09.355000Z","2026-09-13T21:31:20.381597Z",450,"CB8F67XM",1388,"29","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Unemployed (and job seeking)"
+"130","6aa71466da85d97d02c5eaa8","5efe6daf6a2551378201893e","APPROVED","Not Applicable","2026-09-13T21:23:53.977000Z","2026-09-13T21:26:27.003000Z","2026-09-13T22:49:09.629000Z","2026-09-13T21:26:27.389448Z",154,"CB8F67XM",8545,"55","Male","White","United States","United States","United States","English","No","Full-Time"
+"131","6aa7146808ee5e50b33f563c","6984b22b8b8f99c86194ce62","APPROVED","Not Applicable","2026-09-13T21:26:02.653000Z","2026-09-13T21:31:51.743000Z","2026-09-13T22:49:09.905000Z","2026-09-13T21:31:52.162294Z",350,"CB8F67XM",774,"19","Male","Black","Colombia","Spain","Colombia","Spanish","Yes","Unemployed (and job seeking)"
+"132","6aa7146814293fdc2c45bffb","6a1b97b84d4e180632eac11b","APPROVED","Not Applicable","2026-09-13T21:23:56.791000Z","2026-09-13T21:26:10.206000Z","2026-09-13T22:49:10.183000Z","2026-09-13T21:26:10.619295Z",134,"CB8F67XM",133,"32","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"133","6aa7146947e8a01d366c27a5","6982eb0cb5743c2857d1c8e0","APPROVED","Not Applicable","2026-09-13T21:24:29.971000Z","2026-09-13T21:36:04.056000Z","2026-09-13T22:49:10.474000Z","2026-09-13T21:36:04.474583Z",695,"CB8F67XM",148,"24","Male","Black","Kenya","Kenya","Kenya","English","Yes","Unemployed (and job seeking)"
+"134","6aa71469b76f2e3daa231e60","6a26063caa01a9aa4baf76fe","APPROVED","Not Applicable","2026-09-13T21:24:19.338000Z","2026-09-13T21:34:00.182000Z","2026-09-13T22:49:10.767000Z","2026-09-13T21:34:00.613017Z",581,"CB8F67XM",901,"48","Male","Black","United Kingdom","United Kingdom","United Kingdom","English","Yes","Part-Time"
+"135","6aa7146a3f2cedc543c3c85a","6a2343549e35d0b3592b1578","APPROVED","Not Applicable","2026-09-13T21:27:08.658000Z","2026-09-13T21:33:50.493000Z","2026-09-13T22:49:11.059000Z","2026-09-13T21:33:50.861791Z",402,"CB8F67XM",2075,"24","Male","Asian","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"136","6aa7146ca036c74f8a977dcd","5f6f0c6ce6ec2a454f76ce73","APPROVED","Not Applicable","2026-09-13T21:24:46.093000Z","2026-09-13T21:29:24.354000Z","2026-09-13T22:49:11.318000Z","2026-09-13T21:29:24.874040Z",279,"CB8F67XM",2473,"29","Male","White","Australia","Australia","Australia","English","No","Full-Time"
+"137","6aa7146caa41e8296252a9e1","6928a6394052fbe76783ed32","APPROVED","Not Applicable","2026-09-13T21:26:03.300000Z","2026-09-13T21:39:13.045000Z","2026-09-13T22:49:11.595000Z","2026-09-13T21:39:13.442761Z",790,"CB8F67XM",2338,"32","Male","Black","Nigeria","France","Nigeria","English","No","Unemployed (and job seeking)"
+"138","6aa7146ce2d92443903e6dae","5ed559e5afbd830e2117ed55","APPROVED","Not Applicable","2026-09-13T21:24:00.599000Z","2026-09-13T21:36:30.266000Z","2026-09-13T22:49:11.844000Z","2026-09-13T21:36:30.651127Z",750,"CB8F67XM",23502,"65","Male","White","United States","United States","United States","English","No","Full-Time"
+"139","6aa7146dd0f609d36052852a","6972ea1b3fe53075b74368fa","APPROVED","Not Applicable","2026-09-13T21:25:35.740000Z","2026-09-13T21:30:51.651000Z","2026-09-13T22:49:12.110000Z","2026-09-13T21:30:52.058532Z",316,"CB8F67XM",1093,"21","Male","White","Poland","Poland","Poland","Polish","No","Part-Time"
+"140","6aa7146e2a88934b3015f6a9","5da640b9640c5d00133f384b","APPROVED","Not Applicable","2026-09-13T21:24:04.499000Z","2026-09-13T21:29:54.176000Z","2026-09-13T22:49:12.362000Z","2026-09-13T21:29:54.565105Z",350,"CB8F67XM",6068,"43","Male","White","United States","United States","United States","English","No","Full-Time"
+"141","6aa7146ff937c4663e4e1a14","6a184212ea66f7cc4204ee31","APPROVED","Not Applicable","2026-09-13T21:24:26.036000Z","2026-09-13T21:28:45.329000Z","2026-09-13T22:49:12.629000Z","2026-09-13T21:28:45.708844Z",260,"CB8F67XM",576,"33","Male","Black","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"142","6aa71470569e1b3ab228e2e8","6a0daf62ec01cd69c04d1da8","APPROVED","Not Applicable","2026-09-13T21:24:07.165000Z","2026-09-13T21:28:09.258000Z","2026-09-13T22:49:12.898000Z","2026-09-13T21:28:09.633834Z",243,"CB8F67XM",1456,"35","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"143","6aa7147075ab851988aaddd3","698082f6dfbf6cd0a3d6584b","APPROVED","Not Applicable","2026-09-13T21:24:15.143000Z","2026-09-13T21:41:04.746000Z","2026-09-13T22:49:13.782000Z","2026-09-13T21:41:05.149170Z",1010,"CB8F67XM",479,"21","Male","White","Egypt","Egypt","Egypt","Arabic","No","Part-Time"
+"144","6aa7147089150a9e998b2e47","6a10695ad6a4810f0e771f29","APPROVED","Not Applicable","2026-09-13T21:24:04.366000Z","2026-09-13T21:31:47.332000Z","2026-09-13T22:49:14.060000Z","2026-09-13T21:31:47.726511Z",463,"CB8F67XM",20,"19","Male","Mixed","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time"
+"145","6aa714739533a831a2af9c9e","67f7f883cb3cd4c0f5177411","APPROVED","Not Applicable","2026-09-13T21:24:07.951000Z","2026-09-13T21:32:02.887000Z","2026-09-13T22:49:14.330000Z","2026-09-13T21:32:03.285133Z",475,"CB8F67XM",3030,"53","Male","White","Bulgaria","United Kingdom","Bulgaria","Bulgarian","No","Full-Time"
+"146","6aa71474f5966549f4d028f7","69f9db8866659d454bbd43ba","APPROVED","Not Applicable","2026-09-13T21:24:12.945000Z","2026-09-13T21:30:34.301000Z","2026-09-13T22:49:14.587000Z","2026-09-13T21:30:34.680374Z",382,"CB8F67XM",355,"21","Male","Asian","India","India","India","Telugu","No","Unemployed (and job seeking)"
+"147","6aa7148d3da6c4dc61c174d6","54847f1cfdf99b07b28f22f9","APPROVED","Not Applicable","2026-09-13T21:24:34.348000Z","2026-09-13T21:30:28.074000Z","2026-09-13T22:49:14.869000Z","2026-09-13T21:30:28.550686Z",354,"CB8F67XM",15616,"53","Male","Black","United States","United States","United States","English","No","Other"
+"148","6aa71495734300df17f23b58","6400d9b9ff7296c2bce939ef","APPROVED","Not Applicable","2026-09-13T21:24:42.270000Z","2026-09-13T21:29:08.815000Z","2026-09-13T22:49:16.495000Z","2026-09-13T21:29:09.240906Z",267,"CB8F67XM",4564,"45","Female","White","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"149","6aa714a2b71b9e1169038189","5b94fffdaa1729000192a770","APPROVED","Not Applicable","2026-09-13T21:24:54.462000Z","2026-09-13T21:29:08.931000Z","2026-09-13T22:49:16.799000Z","2026-09-13T21:29:09.311325Z",255,"CB8F67XM",2089,"28","Female","White","Spain","Spain","Spain","Spanish","Yes","Unemployed (and job seeking)"
+"150","6aa714a3db234d4dcf7813d0","69fc239b0921769d376f5498","APPROVED","Not Applicable","2026-09-13T21:24:55.403000Z","2026-09-13T21:31:20.573000Z","2026-09-13T22:49:17.083000Z","2026-09-13T21:31:20.981358Z",386,"CB8F67XM",1696,"30","Female","Black","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"151","6aa714bbe8aa55f1ee3c6b7c","669f349c50e94fd78b7c3b66","APPROVED","Not Applicable","2026-09-13T21:25:15.446000Z","2026-09-13T21:28:35.376000Z","2026-09-13T22:49:17.332000Z","2026-09-13T21:28:35.768001Z",200,"CB8F67XM",2155,"28","Female","White","Poland","Poland","Poland","Polish","Yes","Unemployed (and job seeking)"
+"152","6aa714d71e002d09f261f2de","60dceeaa19d94b7d2651c389","APPROVED","Not Applicable","2026-09-13T21:25:47.656000Z","2026-09-13T21:37:47.357000Z","2026-09-13T22:49:17.594000Z","2026-09-13T21:37:47.737354Z",720,"CB8F67XM",1204,"38","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"153","6aa714eb87750bd6c1405508","6a00dffc2d2c853276d05630","APPROVED","Not Applicable","2026-09-13T21:26:08.340000Z","2026-09-13T21:33:19.783000Z","2026-09-13T22:49:17.848000Z","2026-09-13T21:33:20.277232Z",432,"CB8F67XM",48,"33","Female","White","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"154","6aa714f4c4064a4765231e62","6a0c5f6a4974d3dfbeb467ae","APPROVED","Not Applicable","2026-09-13T21:26:25.953000Z","2026-09-13T21:40:33.617000Z","2026-09-13T22:49:15.144000Z","2026-09-13T21:40:33.992952Z",848,"CB8F67XM",362,"35","Male","Black","Nigeria","Canada","Canada","English","No","Part-Time"
+"155","6aa71519d79c246df8610412","6a1ac9f118afa81c97db2dca","APPROVED","Not Applicable","2026-09-13T21:26:53.423000Z","2026-09-13T21:30:01.365000Z","2026-09-13T22:49:18.122000Z","2026-09-13T21:30:01.780314Z",188,"CB8F67XM",395,"21","Female","Asian","United Kingdom","United Kingdom","United Kingdom","English","Yes","Unemployed (and job seeking)"
+"156","6aa715499490ad8a5b00ac9e","6982513b5992184b909c3bca","APPROVED","Not Applicable","2026-09-13T21:27:58.422000Z","2026-09-13T21:36:25.901000Z","2026-09-13T22:49:18.400000Z","2026-09-13T21:36:26.311238Z",508,"CB8F67XM",304,"25","Female","Black","Kenya","Kenya","Kenya","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"157","6aa715bdcb56b06d87a9f522","5b3e322998a45e0001edd87a","APPROVED","Not Applicable","2026-09-13T21:29:39.058000Z","2026-09-13T21:43:41.657000Z","2026-09-13T22:49:18.666000Z","2026-09-13T21:43:42.039197Z",843,"CB8F67XM",14237,"59","Female","White","United States","United States","United States","English","No","Full-Time"
+"158","6aa715eeb5970519946c27b3","6a15dbfc11b62abceab97e96","APPROVED","Not Applicable","2026-09-13T21:30:25.210000Z","2026-09-13T21:36:35.395000Z","2026-09-13T22:49:18.930000Z","2026-09-13T21:36:35.779352Z",371,"CB8F67XM",149,"26","Female","White","Estonia","Ireland","Estonia","Estonian","No","Part-Time"
+"159","6aa71622c9309c5c0644ec28","6a5f720ebca2f65c56ea3741","APPROVED","Not Applicable","2026-09-13T21:31:22.134000Z","2026-09-13T21:38:11.946000Z","2026-09-13T22:49:19.197000Z","2026-09-13T21:38:12.333356Z",410,"CB8F67XM",347,"46","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"160","6aa71629618e92f5adb1435d","665c302327136dcdb0c4a2e0","APPROVED","Not Applicable","2026-09-13T21:31:23.897000Z","2026-09-13T21:41:44.059000Z","2026-09-13T22:49:19.485000Z","2026-09-13T21:41:44.510955Z",621,"CB8F67XM",4548,"29","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"161","6aa716314233b954b4ffd379","69d7025690493e66a83d7a35","APPROVED","Not Applicable","2026-09-13T21:31:34.351000Z","2026-09-13T21:35:57.110000Z","2026-09-13T22:49:19.738000Z","2026-09-13T21:35:57.494196Z",263,"CB8F67XM",230,"30","Female","White","United States","United States","United States","English","No","Full-Time"
+"162","6aa7163b60680c93d03f34e8","5c59baa95e09ea00015521d9","APPROVED","Not Applicable","2026-09-13T21:31:43.955000Z","2026-09-13T21:39:40.455000Z","2026-09-13T22:49:20.009000Z","2026-09-13T21:39:40.840504Z",477,"CB8F67XM",6197,"37","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"163","6aa716d5ccc9ca82c08e3ccd","6706bc0d8c98b64939838b2e","APPROVED","Not Applicable","2026-09-13T21:34:22.064000Z","2026-09-13T21:42:50.333000Z","2026-09-13T22:49:20.278000Z","2026-09-13T21:42:50.776558Z",509,"CB8F67XM",5487,"47","Female","White","United States","United States","United States","English","No","Part-Time"
+"164","6aa7172a25962e118f840917","5f356b8d0535c7518ca3eee9","APPROVED","Not Applicable","2026-09-13T21:35:57.881000Z","2026-09-13T21:43:48.525000Z","2026-09-13T22:49:20.526000Z","2026-09-13T21:43:48.918592Z",471,"CB8F67XM",1609,"65","Female","Mixed","South Africa","South Africa","South Africa","English","No","Part-Time"
+"165","6aa7176cf3051b99d2ed59b5","6a984f8107ee068c6524d497","APPROVED","Not Applicable","2026-09-13T21:36:48.243000Z","2026-09-13T21:41:21.550000Z","2026-09-13T22:49:20.788000Z","2026-09-13T21:41:21.956756Z",274,"CB8F67XM",72,"26","Female","White","El Salvador","United States","United States","Spanish","No","Full-Time"
+"166","6aa7178e4f05192435d5daa4","5de81d685a8f94795b893d45","APPROVED","Not Applicable","2026-09-13T21:37:18.344000Z","2026-09-13T21:40:32.724000Z","2026-09-13T22:49:15.413000Z","2026-09-13T21:40:33.108823Z",195,"CB8F67XM",9845,"42","Male","Asian","United States","United States","United States","English","No","Full-Time"
+"167","6aa7178ea854a4cdbca6a163","5c346116a490d30001f0f21d","APPROVED","Not Applicable","2026-09-13T21:37:18.661000Z","2026-09-13T21:44:44.708000Z","2026-09-13T22:49:21.042000Z","2026-09-13T21:44:45.120154Z",447,"CB8F67XM",1425,"28","Female","Mixed","United States","Mexico","United States","English","No","Other"
+"168","6aa717a3e46267d102ad510b","53987712fdf99b68e3a45021","APPROVED","Not Applicable","2026-09-13T21:37:42.167000Z","2026-09-13T21:44:45.035000Z","2026-09-13T22:49:21.295000Z","2026-09-13T21:44:45.441436Z",423,"CB8F67XM",18429,"32","Female","Asian","Korea","United States","United States","English","No","Full-Time"
+"169","6aa717a46f024596923c1c13","6a00f4fcc91fc576603c25eb","APPROVED","Not Applicable","2026-09-13T21:37:44.498000Z","2026-09-13T21:44:36.069000Z","2026-09-13T22:49:21.551000Z","2026-09-13T21:44:36.444808Z",412,"CB8F67XM",2627,"46","Female","White","United States","United States","United States","English","No","Part-Time"
+"170","6aa717a489441471003550f1","65b9564041e20d793a9c0195","APPROVED","Not Applicable","2026-09-13T21:37:48.962000Z","2026-09-13T21:43:41.097000Z","2026-09-13T22:49:21.814000Z","2026-09-13T21:43:41.475518Z",353,"CB8F67XM",2183,"49","Female","Black","Zimbabwe","South Africa","Zimbabwe","English","No","Full-Time"
+"171","6aa717d6987dc669579aa8bd","67d59064d4fc10f457312dec","APPROVED","Not Applicable","2026-09-13T21:38:38.860000Z","2026-09-13T21:51:12.446000Z","2026-09-13T22:49:22.072000Z","2026-09-13T21:51:12.814142Z",754,"CB8F67XM",1241,"52","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"172","6aa71812680a7d3c8a216dd4","6a11e3d424138aeaea76f12f","APPROVED","Not Applicable","2026-09-13T21:39:30.955000Z","2026-09-13T21:59:52.461000Z","2026-09-13T22:49:22.348000Z","2026-09-13T21:59:52.829439Z",1222,"CB8F67XM",114,"29","Female","Other","Panama","Spain","Panama","Spanish","Yes","Unemployed (and job seeking)"
+"173","6aa71824d61e493e706214bd","66295979973d480359d7ddee","APPROVED","Not Applicable","2026-09-13T21:39:55.754000Z","2026-09-13T21:48:24.086000Z","2026-09-13T22:49:22.602000Z","2026-09-13T21:48:24.466000Z",509,"CB8F67XM",4288,"54","Female","White","United States","United States","United States","English","No","Full-Time"
+"174","6aa718334bfa33309442d038","67164328c166431cd7817390","APPROVED","Not Applicable","2026-09-13T21:40:12.113000Z","2026-09-13T21:47:38.305000Z","2026-09-13T22:49:22.890000Z","2026-09-13T21:47:38.710427Z",447,"CB8F67XM",723,"31","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"175","6aa71848abd4d8faec1bd554","66c84a394961dd752c52ed76","APPROVED","Not Applicable","2026-09-13T21:40:57.022000Z","2026-09-13T21:49:49.829000Z","2026-09-13T22:49:23.144000Z","2026-09-13T21:49:50.216140Z",533,"CB8F67XM",53,"37","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"176","6aa7188aef5639c9c66eadd4","5bfe0d18e373c90001b57c71","APPROVED","Not Applicable","2026-09-13T21:41:36.425000Z","2026-09-13T21:54:04.147000Z","2026-09-13T22:49:23.412000Z","2026-09-13T21:54:04.559096Z",748,"CB8F67XM",2982,"61","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time"
+"177","6aa7189f9fada498461bcd9a","69fb5b0654cbae939a9a5cc1","APPROVED","Not Applicable","2026-09-13T21:41:56.483000Z","2026-09-13T21:50:56.994000Z","2026-09-13T22:49:23.676000Z","2026-09-13T21:50:57.430396Z",541,"CB8F67XM",55,"36","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"178","6aa718c70c6d8935d3cead3f","67fd8520a5dcf6eaa319fc52","APPROVED","Not Applicable","2026-09-13T21:42:35.797000Z","2026-09-13T21:46:11.374000Z","2026-09-13T22:49:23.919000Z","2026-09-13T21:46:11.776490Z",216,"CB8F67XM",7291,"67","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"179","6aa718c7aa3481cf27c554a8","68ccae91d3f4ecebb58f734e","APPROVED","Not Applicable","2026-09-13T21:42:42.341000Z","2026-09-13T21:55:54.481000Z","2026-09-13T22:49:24.220000Z","2026-09-13T21:55:54.880052Z",793,"CB8F67XM",303,"55","Female","Asian","Malaysia","Malaysia","Malaysia","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"180","6aa718debc45b046cee209ae","63ac722fd720a5ef92cda176","APPROVED","Not Applicable","2026-09-13T21:42:58.501000Z","2026-09-13T21:50:19.159000Z","2026-09-13T22:49:24.490000Z","2026-09-13T21:50:19.683865Z",441,"CB8F67XM",975,"56","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"181","6aa719018356f4213e02a086","5bdf8d7eee652a0001f0999c","APPROVED","Not Applicable","2026-09-13T21:43:34.082000Z","2026-09-13T21:50:28.539000Z","2026-09-13T22:49:24.749000Z","2026-09-13T21:50:28.927775Z",415,"CB8F67XM",12520,"32","Female","White","United States","United States","United States","English","No","Full-Time"
+"182","6aa7196563c7430880c9041a","6989bce959483bc187776922","APPROVED","Not Applicable","2026-09-13T21:45:16.773000Z","2026-09-13T21:51:52.626000Z","2026-09-13T22:49:25.028000Z","2026-09-13T21:51:52.990061Z",396,"CB8F67XM",479,"24","Female","Black","France","France","France","French","No","Unemployed (and job seeking)"
+"183","6aa719d77eb0ded133220148","616b2703143d4550968777b8","APPROVED","Not Applicable","2026-09-13T21:47:09.405000Z","2026-09-13T21:58:16.080000Z","2026-09-13T22:49:25.285000Z","2026-09-13T21:58:16.470596Z",667,"CB8F67XM",2937,"25","Female","White","Portugal","Portugal","Portugal","Portuguese","No","Full-Time"
+"184","6aa71a4260d1bd435cd5dac4","696be3c58ec02a56200d1217","APPROVED","Not Applicable","2026-09-13T21:48:53.329000Z","2026-09-13T21:59:13.271000Z","2026-09-13T22:49:25.568000Z","2026-09-13T21:59:13.639489Z",620,"CB8F67XM",734,"63","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"185","6aa71a8da9dc1d90d85fe4ad","6a9884d0d46da71ae5af0588","APPROVED","Not Applicable","2026-09-13T21:50:08.595000Z","2026-09-13T22:00:21.956000Z","2026-09-13T22:49:25.847000Z","2026-09-13T22:00:22.358694Z",614,"CB8F67XM",18,"25","Female","Black","United States","United States","United States","English","No","Full-Time"
+"186","6aa71aa05bdd7cebfa021777","671724d63bb81e6f00449783","APPROVED","Not Applicable","2026-09-13T21:50:29.634000Z","2026-09-13T22:15:34.617000Z","2026-09-13T22:49:26.120000Z","2026-09-13T22:15:35.003544Z",1505,"CB8F67XM",6250,"32","Female","Black","United States","United States","United States","English","No","Other"
+"187","6aa71ac0492dbdd48c8b4794","65fbe33d38ea0e3701414b61","APPROVED","Not Applicable","2026-09-13T21:51:41.130000Z","2026-09-13T21:58:35.089000Z","2026-09-13T22:49:26.394000Z","2026-09-13T21:58:35.482780Z",414,"CB8F67XM",925,"29","Female","Black","Kenya","Kenya","Kenya","English","Yes","Unemployed (and job seeking)"
+"188","6aa71aecb6cd9490c6c9b892","5f123d2f9926a1193a114e68","APPROVED","Not Applicable","2026-09-13T21:52:07.183000Z","2026-09-13T21:58:53.452000Z","2026-09-13T22:49:26.671000Z","2026-09-13T21:58:53.828149Z",407,"CB8F67XM",8439,"33","Female","Black","United States","United States","United States","English","No","Unemployed (and job seeking)"
+"189","6aa71aecbccf663a6eb982a8","613ca0a2040055a4e87c5d71","APPROVED","Not Applicable","2026-09-13T21:51:49.482000Z","2026-09-13T22:05:15.851000Z","2026-09-13T22:49:26.918000Z","2026-09-13T22:05:16.235769Z",807,"CB8F67XM",880,"25","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"190","6aa71bdbed8d4f8ac3b23135","654a56ff9b8baf6c84eb9b69","APPROVED","Not Applicable","2026-09-13T21:55:50.945000Z","2026-09-13T22:12:32.262000Z","2026-09-13T22:49:15.677000Z","2026-09-13T22:12:33.736653Z",1002,"CB8F67XM",3676,"35","Male","White","United Kingdom","United Kingdom","United Kingdom","English","Yes","Full-Time"
+"191","6aa71be30fe973fb881d3f2d","698e7fa9942d0b410600efcf","APPROVED","Not Applicable","2026-09-13T21:55:47.953000Z","2026-09-13T22:09:47.537000Z","2026-09-13T22:49:15.962000Z","2026-09-13T22:09:47.944114Z",840,"CB8F67XM",1486,"56","Male","Mixed","United States","United States","United States","English","No","Other"
+"192","6aa71c224a856a58b03f563c","692749bbbe2c33dcba0dbfeb","APPROVED","Not Applicable","2026-09-13T21:59:23.619000Z","2026-09-13T22:03:02.942000Z","2026-09-13T22:49:27.178000Z","2026-09-13T22:03:03.351817Z",220,"CB8F67XM",269,"28","Female","White","Netherlands","Netherlands","Netherlands","Dutch","No","Full-Time"
+"193","6aa71c3b1b2ab2a60b473ee0","6a04ae863ac91cfca3e95923","APPROVED","Not Applicable","2026-09-13T22:03:10.879000Z","2026-09-13T22:09:25.846000Z","2026-09-13T22:49:27.426000Z","2026-09-13T22:09:26.268629Z",375,"CB8F67XM",182,"21","Female","Asian","Hong Kong","United Kingdom","United Kingdom","English","Yes","Part-Time"
+"194","6aa71c984aa85a9c2cced639","611adf72c8b910f174a5fa84","APPROVED","Not Applicable","2026-09-13T21:58:48.361000Z","2026-09-13T22:15:16.544000Z","2026-09-13T22:49:27.685000Z","2026-09-13T22:15:16.925979Z",989,"CB8F67XM",342,"35","Female","Black","Ghana","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"195","6aa71cb37f98342ca8394146","5f4a4da1575d605c43bef871","APPROVED","Not Applicable","2026-09-13T22:07:53.208000Z","2026-09-13T22:13:07.997000Z","2026-09-13T22:49:27.993000Z","2026-09-13T22:13:08.398378Z",315,"CB8F67XM",14157,"67","Female","White","United States","United States","United States","English","No","Full-Time"
+"196","6aa71d6c9b54c747eb1d9d03","60390dd01c38de312b32bbae","APPROVED","Not Applicable","2026-09-13T22:02:24.410000Z","2026-09-13T22:06:43.466000Z","2026-09-13T22:49:28.257000Z","2026-09-13T22:06:43.884872Z",260,"CB8F67XM",715,"50","Female","White","Hungary","Hungary","Canada","Hungarian","No","Full-Time"
+"197","6aa71f6d98ff723ee0203da4","613f59d7f0f631a278aca6e8","APPROVED","Not Applicable","2026-09-13T22:10:59.104000Z","2026-09-13T22:19:12.459000Z","2026-09-13T22:49:28.505000Z","2026-09-13T22:19:12.863587Z",494,"CB8F67XM",1575,"24","Female","Black","South Africa","South Africa","South Africa","English","Yes","Unemployed (and job seeking)"
+"198","6aa71fd5076ebab491092a5d","698ce10e5bdc0e27e6078608","APPROVED","Not Applicable","2026-09-13T22:12:40.739000Z","2026-09-13T22:23:26.705000Z","2026-09-13T22:49:28.771000Z","2026-09-13T22:23:27.086972Z",646,"CB8F67XM",1778,"31","Female","White","United States","United States","United States","English","No","Part-Time"
+"199","6aa720fae145cf256841c72e","6a0e2d88eda70a05d180e619","APPROVED","Not Applicable","2026-09-13T22:17:37.349000Z","2026-09-13T22:27:07.890000Z","2026-09-13T22:49:29.009000Z","2026-09-13T22:27:08.265274Z",571,"CB8F67XM",600,"34","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"200","6aa724b5839737ef1bc748d1","666f6a774f37a53ba347c404","APPROVED","Not Applicable","2026-09-13T22:33:33.694000Z","2026-09-13T22:38:09.713000Z","2026-09-13T22:49:29.273000Z","2026-09-13T22:38:10.361861Z",277,"CB8F67XM",638,"23","Female","Black","South Africa","South Africa","South Africa","English","Yes","Part-Time"
+"201","6aa6c9715a67b6490d44ec4f","5e5f2b4dfb4665274d6152d8","APPROVED","Not Applicable","2026-09-13T16:04:14.261000Z","2026-09-13T16:13:46.040000Z","2026-09-13T17:30:31.684000Z","2026-09-13T16:13:46.421124Z",572,"CB8F67XM",193,"36","Male","White","Canada","Canada","Canada","English","DATA_EXPIRED","Full-Time"
+"202","6aa6c975c31c62478fb52b26","697cb7a9cfd669553f518236","APPROVED","Not Applicable","2026-09-13T16:04:26.242000Z","2026-09-13T16:11:08.694000Z","2026-09-13T17:30:32.011000Z","2026-09-13T16:11:09.098594Z",403,"CB8F67XM",603,"22","Male","Asian","India","India","India","English","No","Other"
+"203","6aa6c977fce21ead92848074","610e58cb7ed5b0c6b64d9fad","APPROVED","Not Applicable","2026-09-13T16:04:13.231000Z","2026-09-13T16:12:28.036000Z","2026-09-13T17:30:32.335000Z","2026-09-13T16:12:28.415994Z",495,"CB8F67XM",1757,"40","Male","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"204","6aa6c9ab30012a3fba66767f","69b39c752e256fe26eec9b29","APPROVED","Not Applicable","2026-09-13T16:04:59.934000Z","2026-09-13T16:11:37.817000Z","2026-09-13T17:30:32.689000Z","2026-09-13T16:11:38.246395Z",398,"CB8F67XM",845,"33","Male","Asian","Philippines","Canada","Canada","Tagalog-Filipino","No","Part-Time"
+"205","6aa6c9b151ac715cdda6a17a","69a4a2357f4c954781709a84","APPROVED","Not Applicable","2026-09-13T16:05:11.987000Z","2026-09-13T16:08:22.259000Z","2026-09-13T17:30:33.008000Z","2026-09-13T16:08:22.667809Z",191,"CB8F67XM",114,"24","Male","Asian","India","United States","India","Tamil","No","Unemployed (and job seeking)"
+"206","6aa6c9b6522efd2c6b541c27","5f346a22513d7337d3047445","APPROVED","Not Applicable","2026-09-13T16:05:10.965000Z","2026-09-13T16:08:53.062000Z","2026-09-13T17:30:33.341000Z","2026-09-13T16:08:53.472168Z",223,"CB8F67XM",779,"28","Male","Asian","Philippines","United Kingdom","United Kingdom","Tagalog-Filipino","Yes","Other"
+"207","6aa6c9b99bb00ac99b473f0f","67c88ee5ad4e38a07512ce7c","APPROVED","Not Applicable","2026-09-13T16:07:08.958000Z","2026-09-13T16:15:49.699000Z","2026-09-13T17:30:48.034000Z","2026-09-13T16:15:50.089685Z",521,"CB8F67XM",1840,"51","Female","White","United States","United States","United States","English","No","Full-Time"
+"208","6aa6c9c2b59e9690d724dbc3","5f3dfadfbb8b7422fc293393","APPROVED","Not Applicable","2026-09-13T16:05:22.500000Z","2026-09-13T16:08:15.203000Z","2026-09-13T17:30:33.664000Z","2026-09-13T16:08:15.601062Z",173,"CB8F67XM",1238,"26","Male","Asian","Canada","Canada","Vietnam","Vietnamese","No","Unemployed (and job seeking)"
+"209","6aa6c9c8b3ae18709da612a1","5ec5a42a646f515ef0e3f68b","APPROVED","Not Applicable","2026-09-13T16:05:32.466000Z","2026-09-13T16:09:47.497000Z","2026-09-13T17:30:48.308000Z","2026-09-13T16:09:47.970444Z",256,"CB8F67XM",16626,"29","Female","Asian","Canada","United States","United States","Chinese","DATA_EXPIRED","Full-Time"
+"210","6aa6c9cb869bfb0ac615b476","66813de72ae80cacff1535d9","APPROVED","Not Applicable","2026-09-13T16:05:36.887000Z","2026-09-13T16:12:37.888000Z","2026-09-13T17:30:33.973000Z","2026-09-13T16:12:38.269173Z",422,"CB8F67XM",470,"22","Male","White","Ukraine","Spain","Ukraine","Russian","Yes","Due to start a new job within the next month"
+"211","6aa6c9eb799750bfeba63037","616ad0257b1caa4a86077d01","APPROVED","Not Applicable","2026-09-13T16:06:08.628000Z","2026-09-13T16:14:36.272000Z","2026-09-13T17:30:48.618000Z","2026-09-13T16:14:36.653679Z",508,"CB8F67XM",1311,"60","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"212","6aa6ca0944d87ab1e458c71a","6a70be97159051156e3e0818","APPROVED","Not Applicable","2026-09-13T16:06:44.983000Z","2026-09-13T16:14:35.796000Z","2026-09-13T17:30:34.301000Z","2026-09-13T16:14:36.165883Z",471,"CB8F67XM",48,"33","Male","Asian","India","India","India","English","No","Full-Time"
+"213","6aa6ca0b9fecaea05dad5123","6a05b7416fc44bf8a3a4ef5f","APPROVED","Not Applicable","2026-09-13T16:06:35.906000Z","2026-09-13T16:25:17.843000Z","2026-09-13T17:30:34.594000Z","2026-09-13T16:25:18.247967Z",1122,"CB8F67XM",283,"50","Male","White","Canada","Canada","Canada","French","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"214","6aa6ca0d57d3a2c13d610456","5ec1f52f74d69c62f8207c23","APPROVED","Not Applicable","2026-09-13T16:06:37.919000Z","2026-09-13T16:19:58.740000Z","2026-09-13T17:30:34.911000Z","2026-09-13T16:19:59.171643Z",801,"CB8F67XM",742,"30","Male","Mixed","Mexico","Mexico","Mexico","Spanish","No","Part-Time"
+"215","6aa6ca11821f8b2f6588d07f","60ddc62b071a009e0b0c2922","APPROVED","Not Applicable","2026-09-13T16:06:44.758000Z","2026-09-13T16:11:43.229000Z","2026-09-13T17:30:35.219000Z","2026-09-13T16:11:43.638331Z",299,"CB8F67XM",6286,"40","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"216","6aa6ca21f7237877a28b2e60","63e1b63e2163c30bae297a66","APPROVED","Not Applicable","2026-09-13T16:07:02.446000Z","2026-09-13T16:17:45.542000Z","2026-09-13T17:30:48.965000Z","2026-09-13T16:17:45.928474Z",644,"CB8F67XM",2112,"61","Female","White","United States","United States","United States","English","No","Full-Time"
+"217","6aa6ca2896d4d06d595aec14","66799043863669170269eedf","APPROVED","Not Applicable","2026-09-13T16:07:08.337000Z","2026-09-13T16:11:11.587000Z","2026-09-13T17:30:49.274000Z","2026-09-13T16:11:11.971858Z",244,"CB8F67XM",2634,"53","Female","White","United Kingdom","United Kingdom","United Kingdom","English","DATA_EXPIRED","DATA_EXPIRED"
+"218","6aa6ca4ba8e2a91db1c929fc","6a19eaf85310d3776c834a23","APPROVED","Not Applicable","2026-09-13T16:14:55.246000Z","2026-09-13T16:18:45.135000Z","2026-09-13T17:30:49.592000Z","2026-09-13T16:18:45.542804Z",230,"CB8F67XM",282,"28","Female","Mixed","Kazakhstan","United Kingdom","Poland","Russian","No","Full-Time"
+"219","6aa6ca60a5caed28224e1a62","65e725be2e3477dbca821c3f","APPROVED","Not Applicable","2026-09-13T16:08:36.225000Z","2026-09-13T16:19:28.906000Z","2026-09-13T17:30:49.913000Z","2026-09-13T16:19:29.294274Z",653,"CB8F67XM",642,"25","Female","Black","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"220","6aa6ca6777e1c519af1762d5","5e5c40b5651391430a31975b","APPROVED","Not Applicable","2026-09-13T16:08:07.396000Z","2026-09-13T16:15:15.633000Z","2026-09-13T17:30:50.190000Z","2026-09-13T16:15:16.053588Z",429,"CB8F67XM",1311,"35","Female","Mixed","Cuba","Spain","Spain","Spanish","Yes","Part-Time"
+"221","6aa6ca677b5d95c54fdf3288","674345f9aa4a485b13423e9a","APPROVED","Not Applicable","2026-09-13T16:14:16.921000Z","2026-09-13T16:22:18.178000Z","2026-09-13T17:30:35.535000Z","2026-09-13T16:22:18.589355Z",482,"CB8F67XM",3851,"49","Male","White","United States","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"222","6aa6ca7b84c79269cd72db66","69c19dbd4f2889095ad4a09a","APPROVED","Not Applicable","2026-09-13T16:08:31.087000Z","2026-09-13T16:26:25.232000Z","2026-09-13T17:30:50.475000Z","2026-09-13T16:26:25.630870Z",1075,"CB8F67XM",129,"26","Female","White","Ukraine","Canada","Ukraine","Ukrainian","No","Part-Time"
+"223","6aa6ca8902b9176ccd664a7d","5df0be5ec1e3e5103f61f397","APPROVED","Not Applicable","2026-09-13T16:08:48.228000Z","2026-09-13T16:13:23.071000Z","2026-09-13T17:30:50.756000Z","2026-09-13T16:13:23.449548Z",275,"CB8F67XM",2784,"25","Female","Other","United States","United States","United States","English","No","Part-Time"
+"224","6aa6ca8b8adc157c2186b224","5c50b6dc172b6c000177a036","APPROVED","Not Applicable","2026-09-13T16:11:06.001000Z","2026-09-13T16:26:18.293000Z","2026-09-13T17:30:51.034000Z","2026-09-13T16:26:18.674271Z",913,"CB8F67XM",4583,"46","Female","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"225","6aa6ca960eea50d77258008f","66958688126ae60131512012","APPROVED","Not Applicable","2026-09-13T16:08:58.799000Z","2026-09-13T16:13:12.258000Z","2026-09-13T17:30:35.867000Z","2026-09-13T16:13:12.630737Z",254,"CB8F67XM",2048,"39","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Unemployed (and job seeking)"
+"226","6aa6ca9aff12027709ac0f5e","616af9b93327ef5c698221e1","APPROVED","Not Applicable","2026-09-13T16:09:21.480000Z","2026-09-13T16:21:12.173000Z","2026-09-13T17:30:51.310000Z","2026-09-13T16:21:12.589438Z",711,"CB8F67XM",396,"22","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"227","6aa6ca9c44cb736b3f3bf1f3","6a14f6493ad054f49feb2704","APPROVED","Not Applicable","2026-09-13T16:09:05.245000Z","2026-09-13T16:16:29.213000Z","2026-09-13T17:30:36.188000Z","2026-09-13T16:16:29.594343Z",444,"CB8F67XM",25,"27","Male","Mixed","Mexico","Mexico","Mexico","Spanish","No","Full-Time"
+"228","6aa6cab52bb9c7e7c5115dc8","5eb753157a030e67dda96e9f","APPROVED","Not Applicable","2026-09-13T16:09:27.877000Z","2026-09-13T16:13:20.129000Z","2026-09-13T17:30:36.490000Z","2026-09-13T16:13:20.520110Z",233,"CB8F67XM",356,"29","Male","White","Portugal","Portugal","Portugal","Portuguese","No","Unemployed (and job seeking)"
+"229","6aa6cacc2f04f0168c799f5a","5dd3eb9a0f8d513d6c589024","APPROVED","Not Applicable","2026-09-13T16:09:53.228000Z","2026-09-13T16:18:49.060000Z","2026-09-13T17:30:36.815000Z","2026-09-13T16:18:49.449048Z",536,"CB8F67XM",3462,"73","Male","White","United States","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"230","6aa6cad796365e011b6214c4","611666722763d407c769eb9b","APPROVED","Not Applicable","2026-09-13T16:09:59.212000Z","2026-09-13T16:19:21.873000Z","2026-09-13T17:30:37.110000Z","2026-09-13T16:19:22.266305Z",563,"CB8F67XM",568,"28","Male","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"231","6aa6cb07da4aa7011a52a86c","5c4afb7234ee9300011cbbfc","APPROVED","Not Applicable","2026-09-13T16:10:50.962000Z","2026-09-13T16:20:31.126000Z","2026-09-13T17:30:37.409000Z","2026-09-13T16:20:31.588262Z",581,"CB8F67XM",3842,"75","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","DATA_EXPIRED"
+"232","6aa6cb1fb3af29e4b14816cf","61086c714ebfaefbb62531b2","APPROVED","Not Applicable","2026-09-13T16:11:15.690000Z","2026-09-13T16:14:28.998000Z","2026-09-13T17:30:51.564000Z","2026-09-13T16:14:29.401761Z",194,"CB8F67XM",4192,"26","Female","Asian","United States","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"233","6aa6cb420616f2ba878abb80","602a2911a73ba046955f6c58","APPROVED","Not Applicable","2026-09-13T16:11:52.377000Z","2026-09-13T16:15:44.900000Z","2026-09-13T17:30:51.853000Z","2026-09-13T16:15:45.295543Z",233,"CB8F67XM",5000,"57","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"234","6aa6cb5379beae91d820d020","696bb4062c305603b1e0511f","APPROVED","Not Applicable","2026-09-13T16:14:21.495000Z","2026-09-13T16:22:06.730000Z","2026-09-13T17:30:37.714000Z","2026-09-13T16:22:07.131014Z",466,"CB8F67XM",195,"31","Male","White","Poland","Poland","Poland","Polish","No","Unemployed (and job seeking)"
+"235","6aa6cb541cb9f759a4f672ea","613506271ba175e369f9cefe","APPROVED","Not Applicable","2026-09-13T16:12:04.141000Z","2026-09-13T16:20:25.156000Z","2026-09-13T17:30:52.133000Z","2026-09-13T16:20:25.573955Z",502,"CB8F67XM",574,"32","Female","Black","South Africa","South Africa","South Africa","English","No","Part-Time"
+"236","6aa6cb61b7b5cfdd24034085","6977c3a76e5544f4e91ab662","APPROVED","Not Applicable","2026-09-13T16:16:11.971000Z","2026-09-13T16:31:19.181000Z","2026-09-13T17:30:38.025000Z","2026-09-13T16:31:19.588565Z",908,"CB8F67XM",468,"30","Male","White","Poland","Poland","Poland","Polish","No","Other"
+"237","6aa6cb63ec6a60ee794a127e","5908ee77d4b33900015cb3f7","APPROVED","Not Applicable","2026-09-13T16:12:19.388000Z","2026-09-13T16:21:29.458000Z","2026-09-13T17:30:52.408000Z","2026-09-13T16:21:29.897350Z",551,"CB8F67XM",1347,"53","Female","Asian","India","United Kingdom","United Kingdom","English","No","Full-Time"
+"238","6aa6cb65861ba52d6778ceee","69baad8d3dcf97ce81dae5c2","APPROVED","Not Applicable","2026-09-13T16:12:25.502000Z","2026-09-13T16:19:53.010000Z","2026-09-13T17:30:52.719000Z","2026-09-13T16:19:53.488547Z",448,"CB8F67XM",1976,"46","Female","White","United States","United States","United States","English","No","Part-Time"
+"239","6aa6cb7c585d150d39bf6594","6a7e8b0bf81ab204fdd3f1b0","APPROVED","Not Applicable","2026-09-13T16:14:18.251000Z","2026-09-13T16:26:23.719000Z","2026-09-13T17:30:38.369000Z","2026-09-13T16:26:24.141636Z",726,"CB8F67XM",40,"56","Male","Asian","India","India","India","Punjabi","No","Unemployed (and job seeking)"
+"240","6aa6cb99fb1f5c8a20ef4cfe","6a0c94db871f2c134837cce6","APPROVED","Not Applicable","2026-09-13T16:13:17.843000Z","2026-09-13T16:20:41.385000Z","2026-09-13T17:30:53.054000Z","2026-09-13T16:20:41.766673Z",444,"CB8F67XM",478,"54","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"241","6aa6cb9b2a51f7b45c1beacc","62d6d77df59450e545fb22f6","APPROVED","Not Applicable","2026-09-13T16:13:23.903000Z","2026-09-13T16:19:09.441000Z","2026-09-13T17:30:53.371000Z","2026-09-13T16:19:09.836803Z",346,"CB8F67XM",4665,"39","Female","Asian","United Kingdom","United Kingdom","United Kingdom","English","No","Part-Time"
+"242","6aa6cba364eb8c3a810ac0a8","6128ca3e34637121604b8d48","APPROVED","Not Applicable","2026-09-13T16:15:02.865000Z","2026-09-13T16:31:43.620000Z","2026-09-13T17:30:53.668000Z","2026-09-13T16:31:44.028839Z",1001,"CB8F67XM",4198,"31","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"243","6aa6cbaa3fbdc32c97231e33","63b4a880e615d21a58306118","APPROVED","Not Applicable","2026-09-13T16:13:35.059000Z","2026-09-13T16:21:36.359000Z","2026-09-13T17:30:38.721000Z","2026-09-13T16:21:36.752222Z",482,"CB8F67XM",5201,"69","Male","White","United States","United States","United States","English","No","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"244","6aa6cbc7a5551988e8c3d13a","6990f282dcb97d803d460fa1","APPROVED","Not Applicable","2026-09-13T16:13:59.729000Z","2026-09-13T16:19:39.036000Z","2026-09-13T17:30:39.060000Z","2026-09-13T16:19:39.488997Z",340,"CB8F67XM",631,"28","Male","White","Poland","Poland","Poland","Polish","Yes","Full-Time"
+"245","6aa6cbc90ef1afce0c1eb083","678d265eb819fdb2c5a362f9","APPROVED","Not Applicable","2026-09-13T16:14:27.862000Z","2026-09-13T16:24:05.085000Z","2026-09-13T17:30:53.974000Z","2026-09-13T16:24:05.488015Z",578,"CB8F67XM",1323,"53","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"246","6aa6cbec2ff5022c5cda9deb","698035cd3f45aae65d6afd43","APPROVED","Not Applicable","2026-09-13T16:15:13.363000Z","2026-09-13T16:25:19.217000Z","2026-09-13T17:30:39.371000Z","2026-09-13T16:25:19.604263Z",606,"CB8F67XM",427,"28","Male","Asian","India","India","India","Hindi","No","Full-Time"
+"247","6aa6cbedc520bb0247092a82","66bf7692afaf8a137dd8d1bd","APPROVED","Not Applicable","2026-09-13T16:14:37.017000Z","2026-09-13T16:24:59.004000Z","2026-09-13T17:30:54.305000Z","2026-09-13T16:24:59.422671Z",622,"CB8F67XM",943,"27","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"248","6aa6cbf999b486592d45d89f","67f0e28e37225c87ef8a9d0b","APPROVED","Not Applicable","2026-09-13T16:14:49.543000Z","2026-09-13T16:21:36.439000Z","2026-09-13T17:30:54.621000Z","2026-09-13T16:21:36.836518Z",407,"CB8F67XM",450,"20","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","Due to start a new job within the next month"
+"249","6aa6cbfb1acf0d97e686b244","61645364aa6fda7444570fe0","APPROVED","Not Applicable","2026-09-13T16:14:51.293000Z","2026-09-13T16:30:21.281000Z","2026-09-13T17:30:54.934000Z","2026-09-13T16:30:21.674093Z",930,"CB8F67XM",142,"32","Female","Black","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"250","6aa6cbfd07712db2ffc748de","6a1e98f354da7a484574f5b8","APPROVED","Not Applicable","2026-09-13T16:14:56.448000Z","2026-09-13T16:19:25.639000Z","2026-09-13T17:30:39.707000Z","2026-09-13T16:19:26.077063Z",270,"CB8F67XM",975,"52","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Other"
+"251","6aa6cbfe74563a43136eadc9","66b0ce2b37f5b9ab41e82585","APPROVED","Not Applicable","2026-09-13T16:14:54.038000Z","2026-09-13T16:28:37.046000Z","2026-09-13T17:30:55.254000Z","2026-09-13T16:29:01.977486Z",824,"CB8F67XM",2587,"25","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"252","6aa6cc0207ad23a59fd905d1","60fac6f0b643406f580d799d","APPROVED","Not Applicable","2026-09-13T16:14:58.652000Z","2026-09-13T16:23:07.767000Z","2026-09-13T17:30:55.558000Z","2026-09-13T16:23:08.171852Z",490,"CB8F67XM",1843,"25","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"253","6aa6cc0b06682a46f3f6af86","67ab1d683813ed19603e1030","APPROVED","Not Applicable","2026-09-13T16:15:07.142000Z","2026-09-13T16:27:02.827000Z","2026-09-13T17:30:55.871000Z","2026-09-13T16:27:03.226633Z",716,"CB8F67XM",1703,"25","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"254","6aa6cc0c8d088a461d021790","668bef8641eee0e3155f3b33","APPROVED","Not Applicable","2026-09-13T16:15:08.849000Z","2026-09-13T16:21:26.413000Z","2026-09-13T17:30:56.174000Z","2026-09-13T16:21:26.804857Z",378,"CB8F67XM",1556,"31","Female","Black","Lesotho","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"255","6aa6cc1529d9793e907a1add","6128e310f8c34c524eb39ad0","APPROVED","Not Applicable","2026-09-13T16:15:17.195000Z","2026-09-13T16:25:56.663000Z","2026-09-13T17:30:56.446000Z","2026-09-13T16:25:57.047740Z",640,"CB8F67XM",3589,"26","Female","Black","South Africa","South Africa","South Africa","English","No","Unemployed (and job seeking)"
+"256","6aa6cc25f2d3a9b4d8007b63","5a4bf09053a4560001ba0ebf","APPROVED","Not Applicable","2026-09-13T16:15:37.851000Z","2026-09-13T16:27:04.261000Z","2026-09-13T17:30:40.003000Z","2026-09-13T16:27:04.662156Z",687,"CB8F67XM",15952,"39","Male","White","United States","United States","United States","English","No","Full-Time"
+"257","6aa6cc2a0c0f23792c38a4dc","676db977f398d4be462fca83","APPROVED","Not Applicable","2026-09-13T16:15:50.585000Z","2026-09-13T16:19:04.479000Z","2026-09-13T17:30:56.745000Z","2026-09-13T16:19:04.857103Z",194,"CB8F67XM",1377,"32","Female","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"258","6aa6cc2eb1dd7871456c279c","6a219c3d7f484519e0dc2040","APPROVED","Not Applicable","2026-09-13T16:15:49.593000Z","2026-09-13T16:24:32.803000Z","2026-09-13T17:30:40.333000Z","2026-09-13T16:24:33.185703Z",524,"CB8F67XM",387,"29","Male","Black","Nigeria","Poland","Nigeria","English","No","Part-Time"
+"259","6aa6cc32b27a197d6b3c1bba","66b8b996ba8542d9cbd3f5a3","APPROVED","Not Applicable","2026-09-13T16:15:46.539000Z","2026-09-13T16:26:13.046000Z","2026-09-13T17:30:57.053000Z","2026-09-13T16:26:13.483911Z",627,"CB8F67XM",1087,"28","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"260","6aa6cc3d6ec8b425d020cfe9","66b0cd32e02e57ac86e82550","APPROVED","Not Applicable","2026-09-13T16:15:57.314000Z","2026-09-13T16:25:10.971000Z","2026-09-13T17:30:57.360000Z","2026-09-13T16:25:11.369361Z",554,"CB8F67XM",556,"29","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","Full-Time"
+"261","6aa6cc434dc9526dbfea8fe2","6697c8b6d9d7baa7edd8c4d3","APPROVED","Not Applicable","2026-09-13T16:16:03.613000Z","2026-09-13T16:22:17.618000Z","2026-09-13T17:30:57.693000Z","2026-09-13T16:22:18.003513Z",375,"CB8F67XM",2559,"30","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"262","6aa6cc475399d8e14404ea06","6770fdacbc3b61e9e2bda1a6","APPROVED","Not Applicable","2026-09-13T16:16:07.971000Z","2026-09-13T16:26:10.091000Z","2026-09-13T17:30:57.994000Z","2026-09-13T16:26:10.478995Z",603,"CB8F67XM",555,"21","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"263","6aa6cc49e1943a19bac9b8a0","67e694f4bc79fc1251ba4692","APPROVED","Not Applicable","2026-09-13T16:16:09.686000Z","2026-09-13T16:20:48.070000Z","2026-09-13T17:30:58.310000Z","2026-09-13T16:20:48.451038Z",279,"CB8F67XM",53,"22","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"264","6aa6cc51bbe0512f02613108","65e6f4d668bfc2134b26348e","APPROVED","Not Applicable","2026-09-13T16:16:17.384000Z","2026-09-13T16:23:43.956000Z","2026-09-13T17:30:58.609000Z","2026-09-13T16:23:44.359582Z",447,"CB8F67XM",1666,"34","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"265","6aa6cc5ac918a537bad96631","66315b12a719cc16c3813302","APPROVED","Not Applicable","2026-09-13T16:16:33.926000Z","2026-09-13T16:24:37.026000Z","2026-09-13T17:30:40.650000Z","2026-09-13T16:24:37.454402Z",484,"CB8F67XM",497,"41","Male","Black","Germany","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"266","6aa6cc68f8c0660bfdfb965f","5ff38032559f439a49bdac82","APPROVED","Not Applicable","2026-09-13T16:16:40.352000Z","2026-09-13T16:20:42.428000Z","2026-09-13T17:30:58.909000Z","2026-09-13T16:20:42.848965Z",243,"CB8F67XM",1532,"24","Female","Black","South Africa","South Africa","South Africa","English","No","DATA_EXPIRED"
+"267","6aa6cc839e4473cdc513c7b6","66b5f850fab880f63ad88795","APPROVED","Not Applicable","2026-09-13T16:17:07.257000Z","2026-09-13T16:28:16.481000Z","2026-09-13T17:30:59.200000Z","2026-09-13T16:28:16.863347Z",670,"CB8F67XM",13,"30","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"268","6aa6cc865d02a510412dcbdc","697a978f0b6dffb1045756dd","APPROVED","Not Applicable","2026-09-13T16:17:10.318000Z","2026-09-13T16:26:21.521000Z","2026-09-13T17:30:59.486000Z","2026-09-13T16:26:21.916942Z",552,"CB8F67XM",572,"37","Female","Black","South Africa","South Africa","South Africa","Arabic","Yes","Full-Time"
+"269","6aa6cc96a7a1b656683bf1b7","672e070e0a631ffab8d21860","APPROVED","Not Applicable","2026-09-13T16:17:26.338000Z","2026-09-13T16:25:19.653000Z","2026-09-13T17:30:59.782000Z","2026-09-13T16:25:20.042349Z",474,"CB8F67XM",1965,"21","Female","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","DATA_EXPIRED"
+"270","6aa6cc99d8fcf33a8d96da98","677d185800ab83d1b0185d82","APPROVED","Not Applicable","2026-09-13T16:17:29.365000Z","2026-09-13T16:26:49.594000Z","2026-09-13T17:31:00.087000Z","2026-09-13T16:26:50.009552Z",561,"CB8F67XM",728,"20","Female","Black","South Africa","South Africa","South Africa","Other","DATA_EXPIRED","DATA_EXPIRED"
+"271","6aa6cca3e7cb7d85bb71b8da","65e331729c379df7986a735d","APPROVED","Not Applicable","2026-09-13T16:17:39.743000Z","2026-09-13T16:26:36.627000Z","2026-09-13T17:31:00.387000Z","2026-09-13T16:26:37.008859Z",537,"CB8F67XM",1009,"37","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"272","6aa6ccad3d37c1ee826ffb4a","67d0829379c1926a4bb58de8","APPROVED","Not Applicable","2026-09-13T16:17:49.640000Z","2026-09-13T16:31:48.235000Z","2026-09-13T17:31:00.713000Z","2026-09-13T16:31:48.625102Z",839,"CB8F67XM",718,"25","Female","Black","South Africa","South Africa","South Africa","English","No","Full-Time"
+"273","6aa6ccb534e42fe4fffea429","67343448841a340e23186e10","APPROVED","Not Applicable","2026-09-13T16:17:57.679000Z","2026-09-13T16:26:00.519000Z","2026-09-13T17:31:01.029000Z","2026-09-13T16:26:00.882627Z",483,"CB8F67XM",584,"32","Female","Mixed","South Africa","South Africa","South Africa","English","No","Full-Time"
+"274","6aa6ccb722ea99ae45031c0c","6a47d1405ac2c1b60a649dd0","APPROVED","Not Applicable","2026-09-13T16:18:01.562000Z","2026-09-13T16:22:08.898000Z","2026-09-13T17:30:40.955000Z","2026-09-13T16:22:09.277311Z",248,"CB8F67XM",12,"25","Male","White","Greece","Greece","Greece","Greek","No","Full-Time"
+"275","6aa6ccb895711a4852a62ffe","67c87fc1b3ba111d0e1526a0","APPROVED","Not Applicable","2026-09-13T16:18:00.433000Z","2026-09-13T16:26:17.237000Z","2026-09-13T17:31:01.383000Z","2026-09-13T17:13:00.937601Z",497,"CB8F67XM",1855,"24","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"276","6aa6ccba1d4effc1fc1eb08d","5eced9328405902eef967571","APPROVED","Not Applicable","2026-09-13T16:18:16.954000Z","2026-09-13T16:26:17.030000Z","2026-09-13T17:30:41.263000Z","2026-09-13T16:26:17.420597Z",481,"CB8F67XM",15123,"39","Male","White","United States","United States","United States","English","DATA_EXPIRED","DATA_EXPIRED"
+"277","6aa6ccbaf8c0660bfdfb967b","698b3873bd92adb7a14dd0e1","APPROVED","Not Applicable","2026-09-13T16:18:02.939000Z","2026-09-13T16:28:03.487000Z","2026-09-13T17:30:42.266000Z","2026-09-13T16:28:03.873823Z",601,"CB8F67XM",152,"29","Male","Other","Egypt","Egypt","Egypt","Arabic","Yes","Part-Time"
+"278","6aa6ccc17ac923bf699f70c1","66d735767833318558e61b65","APPROVED","Not Applicable","2026-09-13T16:18:09.785000Z","2026-09-13T16:25:28.752000Z","2026-09-13T17:31:01.758000Z","2026-09-13T16:25:29.148243Z",439,"CB8F67XM",631,"33","Female","Black","Zimbabwe","South Africa","South Africa","English","DATA_EXPIRED","Full-Time"
+"279","6aa6cccae3d3af7d345a8468","60ddd06d5358cdcab4a3c82c","APPROVED","Not Applicable","2026-09-13T16:18:18.156000Z","2026-09-13T16:27:35.692000Z","2026-09-13T17:31:02.048000Z","2026-09-13T16:28:05.054352Z",558,"CB8F67XM",1549,"42","Female","Black","Zimbabwe","South Africa","Zimbabwe","English","DATA_EXPIRED","DATA_EXPIRED"
+"280","6aa6ccd0b9ce34315592afa4","6a11d05c3cbd03d8bc3285cd","APPROVED","Not Applicable","2026-09-13T16:18:28.850000Z","2026-09-13T16:32:20.517000Z","2026-09-13T17:30:42.620000Z","2026-09-13T16:32:20.975116Z",832,"CB8F67XM",421,"72","Male","White","United States","United States","United States","English","No","Part-Time"
+"281","6aa6ccd32514a0aa374ecd91","66b0b6f30c99d68c6dc59549","APPROVED","Not Applicable","2026-09-13T16:18:27.939000Z","2026-09-13T16:24:28.466000Z","2026-09-13T17:31:02.347000Z","2026-09-13T16:36:19.341979Z",361,"CB8F67XM",432,"46","Female","Black","South Africa","South Africa","South Africa","English","No","Part-Time"
+"282","6aa6ccd41c321abf96930a57","6741c24582a0d15a453a22ed","APPROVED","Not Applicable","2026-09-13T16:18:34.130000Z","2026-09-13T16:26:11.194000Z","2026-09-13T17:30:42.985000Z","2026-09-13T16:26:11.625806Z",458,"CB8F67XM",86,"29","Male","Black","South Africa","South Africa","South Africa","English","DATA_EXPIRED","Full-Time"
+"283","6aa6ccdf92ecff124bef5a01","69d8b8a199f4294883b65d11","APPROVED","Not Applicable","2026-09-13T16:18:39.212000Z","2026-09-13T16:35:53.267000Z","2026-09-13T17:31:02.662000Z","2026-09-13T16:35:53.645006Z",1035,"CB8F67XM",344,"32","Female","Black","United States","South Africa","South Africa","English","No","Full-Time"
+"284","6aa6cce09e4473cdc513c7bf","6a221da2b80ce71cb6566b27","APPROVED","Not Applicable","2026-09-13T16:20:54.259000Z","2026-09-13T16:35:22.264000Z","2026-09-13T17:30:43.349000Z","2026-09-13T16:35:22.653447Z",869,"CB8F67XM",347,"46","Male","Black","Canada","Canada","Canada","English","No","Unemployed (and job seeking)"
+"285","6aa6cd12e1943a19bac9b8a9","6a904b6cd9d0e0da9cf10f11","APPROVED","Not Applicable","2026-09-13T16:19:40.667000Z","2026-09-13T16:23:51.815000Z","2026-09-13T17:30:43.661000Z","2026-09-13T16:23:52.191423Z",252,"CB8F67XM",17,"21","Male","White","Poland","Poland","Poland","Polish","Yes","Part-Time"
+"286","6aa6cd9c634e21fe912befc7","6a218fa8083eb457d008e2b4","APPROVED","Not Applicable","2026-09-13T16:21:50.761000Z","2026-09-13T16:25:56.747000Z","2026-09-13T17:30:43.944000Z","2026-09-13T16:25:57.132019Z",246,"CB8F67XM",556,"36","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"287","6aa6cdceb524444fe50381a4","69b7168c3a5856d1d06164a1","APPROVED","Not Applicable","2026-09-13T16:23:33.580000Z","2026-09-13T16:29:28.042000Z","2026-09-13T17:30:44.239000Z","2026-09-13T16:29:28.477631Z",355,"CB8F67XM",677,"32","Male","White","United States","United States","United States","English","No","Full-Time"
+"288","6aa6cdea475e41d30349c2a1","678d9eb176839c229220efed","APPROVED","Not Applicable","2026-09-13T16:23:11.513000Z","2026-09-13T16:27:42.329000Z","2026-09-13T17:30:44.531000Z","2026-09-13T16:27:42.708876Z",271,"CB8F67XM",283,"35","Male","Black","United States","United States","United States","English","No","Part-Time"
+"289","6aa6cdf7254353e66126050e","6734dd2d27952653f66fa78f","APPROVED","Not Applicable","2026-09-13T16:23:19.563000Z","2026-09-13T16:38:38.313000Z","2026-09-13T17:31:03.802000Z","2026-09-13T16:38:38.766243Z",919,"CB8F67XM",828,"20","Female","Black","South Africa","South Africa","South Africa","English","Yes","Full-Time"
+"290","6aa6ce399939ca9c63dd2e84","6a06362b6da286172b5a7281","APPROVED","Not Applicable","2026-09-13T16:24:29.127000Z","2026-09-13T16:30:24.663000Z","2026-09-13T17:30:44.845000Z","2026-09-13T16:30:26.143542Z",356,"CB8F67XM",89,"24","Male","White","Ireland","Ireland","Ireland","English","Yes","Unemployed (and job seeking)"
+"291","6aa6ce3dac4cfbb4cb3b043d","69fdda7887e460a4d33c272a","APPROVED","Not Applicable","2026-09-13T16:24:33.759000Z","2026-09-13T16:28:29.952000Z","2026-09-13T17:30:45.143000Z","2026-09-13T16:28:30.348171Z",237,"CB8F67XM",734,"21","Male","White","United Kingdom","United Kingdom","United Kingdom","English","Yes","Full-Time"
+"292","6aa6ce75afdc2045941beaa5","69ecc7d84b4951f5d69a5879","APPROVED","Not Applicable","2026-09-13T16:25:25.293000Z","2026-09-13T16:33:14.575000Z","2026-09-13T17:30:45.420000Z","2026-09-13T16:33:15.013444Z",470,"CB8F67XM",134,"19","Male","Prefer not to say","France","France","France","French","Yes","Not in paid work (e.g. homemaker', 'retired or disabled)"
+"293","6aa6ce82c5f66e4c9bbb3b8b","62daca978b726c806cd88450","APPROVED","Not Applicable","2026-09-13T16:26:59.633000Z","2026-09-13T16:32:10.572000Z","2026-09-13T17:30:45.721000Z","2026-09-13T16:32:10.961281Z",311,"CB8F67XM",1228,"39","Male","White","South Africa","United Kingdom","South Africa","DATA_EXPIRED","No","Full-Time"
+"294","6aa6cf570ce5df9c19203d75","69fefd6883d0ffa7e990be4c","APPROVED","Not Applicable","2026-09-13T16:29:11.739000Z","2026-09-13T16:40:50.271000Z","2026-09-13T17:30:45.998000Z","2026-09-13T16:40:50.704592Z",699,"CB8F67XM",326,"42","Male","Asian","India","India","India","Tamil","No","Part-Time"
+"295","6aa6cf5d5a20bcd753179604","69f645abf39d43f0d30f7b05","APPROVED","Not Applicable","2026-09-13T16:29:21.673000Z","2026-09-13T16:33:04.989000Z","2026-09-13T17:30:46.315000Z","2026-09-13T16:33:05.379347Z",224,"CB8F67XM",285,"21","Male","Other","Ecuador","Canada","Canada","English","Yes","Unemployed (and job seeking)"
+"296","6aa6cfc31f28e83c0172db33","63de85109c483ddf2670c7f8","APPROVED","Not Applicable","2026-09-13T16:31:05.532000Z","2026-09-13T16:41:20.471000Z","2026-09-13T17:30:46.589000Z","2026-09-13T16:41:20.875450Z",615,"CB8F67XM",1915,"54","Male","White","United Kingdom","United Kingdom","United Kingdom","English","No","Full-Time"
+"297","6aa6cff8498f547dfdc30f74","6a060ab277e9ceea37211b01","APPROVED","Not Applicable","2026-09-13T16:31:52.599000Z","2026-09-13T16:36:30.100000Z","2026-09-13T17:30:46.865000Z","2026-09-13T16:36:30.481023Z",278,"CB8F67XM",296,"29","Male","White","Italy","Italy","Italy","Italian","No","Unemployed (and job seeking)"
+"298","6aa6d1a3048431e16e25d890","69f23d475d7d045f5cb57993","APPROVED","Not Applicable","2026-09-13T16:39:02.685000Z","2026-09-13T16:44:42.268000Z","2026-09-13T17:30:47.142000Z","2026-09-13T16:44:42.648404Z",340,"CB8F67XM",891,"30","Male","White","Canada","Canada","Canada","Polish","No","Full-Time"
+"299","6aa6d2b9e816d0cb3094676b","69d64dc39dfb436ecaedd23b","APPROVED","Not Applicable","2026-09-13T16:43:37.550000Z","2026-09-13T16:53:44.973000Z","2026-09-13T17:30:47.433000Z","2026-09-13T16:53:45.372530Z",608,"CB8F67XM",285,"31","Male","Prefer not to say","Belgium","Belgium","Belgium","Dutch","No","Part-Time"
+"300","6aa6d77dca23164811a80bbd","6a1884ff3dd3be879cf3e7db","APPROVED","Not Applicable","2026-09-13T17:04:09.370000Z","2026-09-13T17:21:07.144000Z","2026-09-13T17:30:47.745000Z","2026-09-13T17:21:07.798818Z",1018,"CB8F67XM",767,"39","Male","Black","Zimbabwe","United Kingdom","Zimbabwe","English","Yes","Full-Time"

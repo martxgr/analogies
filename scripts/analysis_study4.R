@@ -1,7 +1,3 @@
-# Study 4 analysis: analogies with a mechanical base vs analogies with a chemical,
-# biological, or economic base.
-# pref runs from -3 to 3; positive = prefers the analogy with the mechanical base.
-
 library(tidyverse)
 library(lmerTest)
 library(emmeans)
@@ -9,36 +5,36 @@ library(stringi)
 library(tidytext)
 library(LexOPS)
 
-d <- read.csv("data/study4.csv", fileEncoding = "UTF-8") %>%
+d <- read.csv("data/study4.csv") %>%
   mutate(domain = factor(domain, c("chemical", "biological", "economic")))
 
-analogies <- read.csv("stimuli/study4_analogies.csv", fileEncoding = "UTF-8")
+analogies <- read.csv("stimuli/study4_analogies.csv")
 
-d %>% group_by(domain) %>% summarise(participants = n_distinct(pid), trials = n())
-
-##################
 # main analyses
-##################
-
-# all three domains together: the overall effect, and whether the domains differ
-m_all <- lmer(pref ~ 0 + domain + (1 | pid) + (1 | mech_item) + (1 | mech_item:domain), d)
-summary(emmeans(m_all, ~ 1), infer = TRUE)
-summary(emmeans(m_all, ~ domain), infer = TRUE)
-eff_size(emmeans(m_all, ~ domain), sigma = sigma(m_all), edf = df.residual(m_all))
-joint_tests(m_all)
 
 # one model per domain
-m_chemical <- lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "chemical"))
+m_chemical <- lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "chemical"))
 summary(m_chemical)
 confint(m_chemical)
 
-m_biological <- lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "biological"))
+m_biological <- lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "biological"))
 summary(m_biological)
 confint(m_biological)
 
-m_economic <- lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "economic"))
+m_economic <- lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "economic"))
 summary(m_economic)
 confint(m_economic)
+
+# all three
+m_all <- lmer(pref ~ 0 + domain + (1 | id) + (1 | mech_item) + (1 | mech_item:domain), d)
+# overall
+summary(emmeans(m_all, ~ 1), infer = TRUE)
+# simple slopes
+summary(emmeans(m_all, ~ domain), infer = TRUE)
+# effect sizes
+eff_size(emmeans(m_all, ~ domain), sigma = sigma(m_all), edf = df.residual(m_all))
+# do the domains differ?
+joint_tests(m_all)
 
 ##################
 # exploratory linguistic controls

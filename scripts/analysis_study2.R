@@ -1,7 +1,3 @@
-# Study 2 analysis: random mechanical-psychological pairings, with the two analogies
-# for each pairing written by GPT, Claude, or Gemini.
-# pref runs from -3 to 3; positive = prefers the analogy with the mechanical base.
-
 library(tidyverse)
 library(lmerTest)
 library(emmeans)
@@ -9,35 +5,34 @@ library(stringi)
 library(tidytext)
 library(LexOPS)
 
-d <- read.csv("data/study2.csv", fileEncoding = "UTF-8") %>%
+d <- read.csv("data/study2.csv") %>%
   mutate(llm = factor(llm, c("GPT", "Claude", "Gemini")))
 
-analogies <- read.csv("stimuli/study2_analogies.csv", fileEncoding = "UTF-8")
+analogies <- read.csv("stimuli/study2_analogies.csv")
 
-d %>% group_by(llm) %>% summarise(participants = n_distinct(pid), trials = n())
-
-##################
 # main analyses
-##################
-
 # one model per LLM
-m_gpt <- lmer(pref ~ 1 + (1 | pid) + (1 | pair), filter(d, llm == "GPT"))
+m_gpt <- lmer(pref ~ 1 + (1 | id) + (1 | pair), filter(d, llm == "GPT"))
 summary(m_gpt)
 confint(m_gpt)
 
-m_claude <- lmer(pref ~ 1 + (1 | pid) + (1 | pair), filter(d, llm == "Claude"))
+m_claude <- lmer(pref ~ 1 + (1 | id) + (1 | pair), filter(d, llm == "Claude"))
 summary(m_claude)
 confint(m_claude)
 
-m_gemini <- lmer(pref ~ 1 + (1 | pid) + (1 | pair), filter(d, llm == "Gemini"))
+m_gemini <- lmer(pref ~ 1 + (1 | id) + (1 | pair), filter(d, llm == "Gemini"))
 summary(m_gemini)
 confint(m_gemini)
 
-# all three together: the overall effect, and whether the LLMs differ
-m_all <- lmer(pref ~ 0 + llm + (1 | pid) + (1 | pair) + (1 | pair:llm), d)
+# all three
+m_all <- lmer(pref ~ 0 + llm + (1 | id) + (1 | pair) + (1 | pair:llm), d)
+# overall
 summary(emmeans(m_all, ~ llm), infer = TRUE)
+# effect size
 eff_size(emmeans(m_all, ~ llm), sigma = sigma(m_all), edf = df.residual(m_all))
+# differ
 joint_tests(m_all)
+# simple slopes
 summary(emmeans(m_all, ~ 1, weights = "equal"), infer = c(TRUE, TRUE))
 
 ##################

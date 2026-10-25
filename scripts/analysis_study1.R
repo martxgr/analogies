@@ -5,33 +5,21 @@ library(stringi)
 library(tidytext)
 library(LexOPS)
 
-d <- read.csv("data/study1.csv", fileEncoding = "UTF-8") %>%
+d <- read.csv("data/study1.csv") %>%
   filter(comparison == "mechanical vs psychological") %>%
   rename(mech_base = analogy_a, psych_base = analogy_b)
 
-analogies <- read.csv("stimuli/study1_analogies.csv", fileEncoding = "UTF-8") %>%
+analogies <- read.csv("stimuli/study1_analogies.csv") %>%
   filter(comparison == "mechanical vs psychological")
 
-##################
 # main analysis
-##################
 
-m_main <- lmer(pref ~ 1 + (1 | pid) + (1 | mech_base) + (1 | psych_base), d)
+m_main <- lmer(pref ~ 1 + (1 | id) + (1 | mech_base) + (1 | psych_base), d)
 summary(m_main)
 confint(m_main)
 
-# every pairing's mean preference
-d %>%
-  group_by(mech_base, psych_base) %>%
-  summarise(n = n(), mean_pref = mean(pref), .groups = "drop") %>%
-  arrange(desc(mean_pref))
-
-##################
-# exploratory linguistic controls
-##################
-
-# word frequency: mean SUBTLEX-US Zipf value of each analogy's words
-freq <- LexOPS::lexops %>%
+# word frequency
+freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
   filter(!is.na(word), !is.na(zipf)) %>%
   distinct(word, .keep_all = TRUE)
