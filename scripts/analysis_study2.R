@@ -35,12 +35,8 @@ joint_tests(m_all)
 # simple slopes
 summary(emmeans(m_all, ~ 1, weights = "equal"), infer = c(TRUE, TRUE))
 
-##################
-# exploratory linguistic controls
-##################
-
-# word frequency: mean SUBTLEX-US Zipf value of each analogy's words
-freq <- LexOPS::lexops %>%
+# exploratory linguistic controls: length and word frequency (mean SUBTLEX-US Zipf)
+freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
   filter(!is.na(word), !is.na(zipf)) %>%
   distinct(word, .keep_all = TRUE)
@@ -69,10 +65,10 @@ pair_cov <- stim %>%
          freq_diff_z = as.numeric(scale(freq_diff))) %>%
   ungroup()
 
-# do the two versions differ in length or frequency (controlling for the LLM)?
+# do the two versions differ in length or frequency?
 m_length <- lmer(length_diff ~ llm + (1 | pair), pair_cov)
-m_freq <- lmer(freq_diff ~ llm + (1 | pair), pair_cov)
 summary(emmeans(m_length, ~ 1), infer = TRUE)
+m_freq <- lmer(freq_diff ~ llm + (1 | pair), pair_cov)
 summary(emmeans(m_freq, ~ 1), infer = TRUE)
 
 # main model with both differences as covariates
@@ -80,7 +76,5 @@ d_control <- d %>%
   left_join(pair_cov %>% select(llm, pair, length_diff_z, freq_diff_z), by = c("llm", "pair"))
 
 m_control <- lmer(pref ~ 0 + llm + length_diff_z + freq_diff_z +
-                    (1 | pid) + (1 | pair) + (1 | pair:llm), d_control)
+                    (1 | id) + (1 | pair) + (1 | pair:llm), d_control)
 summary(m_control)
-confint(m_control, parm = c("length_diff_z", "freq_diff_z"), method = "Wald")
-summary(emmeans(m_control, ~ 1), infer = TRUE)

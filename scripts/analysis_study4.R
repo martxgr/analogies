@@ -36,12 +36,8 @@ eff_size(emmeans(m_all, ~ domain), sigma = sigma(m_all), edf = df.residual(m_all
 # do the domains differ?
 joint_tests(m_all)
 
-##################
-# exploratory linguistic controls
-##################
-
-# word frequency: mean SUBTLEX-US Zipf value of each analogy's words
-freq <- LexOPS::lexops %>%
+# length and word frequency
+freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
   filter(!is.na(word), !is.na(zipf)) %>%
   distinct(word, .keep_all = TRUE)
@@ -58,7 +54,6 @@ stim <- stim %>%
               summarise(mean_zipf = mean(zipf, na.rm = TRUE), .groups = "drop"),
             by = c("mech_item", "domain", "base"))
 
-# one row per pairing: mechanical-base minus other-base version
 pair_cov <- stim %>%
   select(mech_item, domain, base, n_words, mean_zipf) %>%
   pivot_wider(names_from = base, values_from = c(n_words, mean_zipf)) %>%
@@ -70,13 +65,19 @@ pair_cov <- stim %>%
          freq_diff_z = as.numeric(scale(freq_diff))) %>%
   ungroup()
 
-# main model with both differences as covariates: are the effects still significant?
+# do the two versions differ in length or frequency?
+m_length <- lmer(length_diff ~ domain + (1 | mech_item), pair_cov)
+summary(emmeans(m_length, ~ 1), infer = TRUE)
+m_freq <- lmer(freq_diff ~ domain + (1 | mech_item), pair_cov)
+summary(emmeans(m_freq, ~ 1), infer = TRUE)
+
+# control model
 d_control <- d %>%
   left_join(pair_cov %>% select(mech_item, domain, length_diff_z, freq_diff_z),
             by = c("mech_item", "domain"))
 
 m_control <- lmer(pref ~ 0 + domain + length_diff_z + freq_diff_z +
-                    (1 | pid) + (1 | mech_item) + (1 | mech_item:domain), d_control)
+                    (1 | id) + (1 | mech_item) + (1 | mech_item:domain), d_control)
 summary(m_control)
 summary(emmeans(m_control, ~ 1), infer = TRUE)
 summary(emmeans(m_control, ~ domain), infer = TRUE)

@@ -18,7 +18,9 @@ m_main <- lmer(pref ~ 1 + (1 | id) + (1 | mech_base) + (1 | psych_base), d)
 summary(m_main)
 confint(m_main)
 
-# word frequency
+################################################################################
+
+# frequency database
 freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
   filter(!is.na(word), !is.na(zipf)) %>%
@@ -30,17 +32,22 @@ stim <- analogies %>%
 
 stim <- stim %>%
   left_join(stim %>%
+              # break down into words
               unnest_tokens(word, text) %>%
+              # get the frequencies
               left_join(freq, by = "word") %>%
+              # group by analogy
               group_by(id) %>%
+              # get the mean frequency
               summarise(mean_zipf = mean(zipf, na.rm = TRUE)),
             by = "id")
 
-# do analogies with mechanical and psychological bases differ in length or frequency?
+# differences in length or frequency??
 t.test(n_words ~ base, data = stim)
 t.test(mean_zipf ~ base, data = stim)
 
-# main model with each pairing's length and frequency difference (standardized) as covariates
+# control for length and frequency!
+# first we compute the DIFFERENCE in length and frequency between the pairings
 pair_cov <- d %>%
   distinct(mech_base, psych_base) %>%
   left_join(stim %>% select(mech_base = id, mech_words = n_words, mech_zipf = mean_zipf), by = "mech_base") %>%
@@ -50,7 +57,7 @@ pair_cov <- d %>%
 
 d_control <- d %>% left_join(pair_cov, by = c("mech_base", "psych_base"))
 
-m_control <- lmer(pref ~ length_diff_z + freq_diff_z + (1 | pid) + (1 | mech_base) + (1 | psych_base),
+m_control <- lmer(pref ~ length_diff_z + freq_diff_z + (1 | id) + (1 | mech_base) + (1 | psych_base),
                   d_control)
 summary(m_control)
 confint(m_control)

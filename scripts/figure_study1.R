@@ -5,13 +5,14 @@ library(lmerTest)
 source("scripts/figure_style.R")
 
 d <- read.csv("data/study1.csv", fileEncoding = "UTF-8") %>%
+  filter(!is.na(pref)) %>%                               # trials left blank
   filter(comparison == "mechanical vs psychological") %>%
   rename(mech_base = analogy_a, psych_base = analogy_b)
 
 analogies <- read.csv("stimuli/study1_analogies.csv", fileEncoding = "UTF-8")
 
 # model estimate and 95% CI (Satterthwaite) for the shrouds
-m <- lmer(pref ~ 1 + (1 | pid) + (1 | mech_base) + (1 | psych_base), d)
+m <- lmer(pref ~ 1 + (1 | id) + (1 | mech_base) + (1 | psych_base), d)
 coefs <- summary(m)$coefficients
 est <- tibble(est = coefs[1, "Estimate"],
               lo = est - qt(.975, coefs[1, "df"]) * coefs[1, "Std. Error"],
@@ -25,7 +26,7 @@ a_mm <- 42                 # panel height; the y axis is in mm so dots stay roun
 x_lim <- c(-3.15, 3.15)
 
 participants <- d %>%
-  group_by(pid) %>%
+  group_by(id) %>%
   summarise(m = round(mean(pref), 6)) %>%
   mutate(colour = case_when(m > 0 ~ mech_col, m < 0 ~ psych_col, TRUE ~ zero_col))
 

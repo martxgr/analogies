@@ -7,6 +7,7 @@ library(lmerTest)
 source("scripts/figure_style.R")
 
 d <- read.csv("data/study4.csv", fileEncoding = "UTF-8") %>%
+  filter(!is.na(pref)) %>%                               # trials left blank
   mutate(domain = factor(str_to_title(domain), c("Chemical", "Biological", "Economic")))
 
 item_labels <- read.csv("stimuli/study4_analogies.csv", fileEncoding = "UTF-8") %>%
@@ -20,12 +21,12 @@ intercept_ci <- function(m) {
          hi = est + qt(.975, coefs[1, "df"]) * coefs[1, "Std. Error"])
 }
 
-est_all <- intercept_ci(lmer(pref ~ 1 + (1 | pid) + (1 | mech_item:domain), d))
+est_all <- intercept_ci(lmer(pref ~ 1 + (1 | id) + (1 | mech_item:domain), d))
 
 est_domain <- bind_rows(
-  Chemical   = intercept_ci(lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "Chemical"))),
-  Biological = intercept_ci(lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "Biological"))),
-  Economic   = intercept_ci(lmer(pref ~ 1 + (1 | pid) + (1 | mech_item), filter(d, domain == "Economic"))),
+  Chemical   = intercept_ci(lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "Chemical"))),
+  Biological = intercept_ci(lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "Biological"))),
+  Economic   = intercept_ci(lmer(pref ~ 1 + (1 | id) + (1 | mech_item), filter(d, domain == "Economic"))),
   .id = "domain") %>%
   mutate(domain = factor(domain, levels(d$domain)))
 
@@ -37,7 +38,7 @@ a_mm <- 34                 # panel height; the y axis is in mm so dots stay roun
 x_lim <- c(-2.65, 3.15)    # trimmed to the range of the data
 
 participants <- d %>%
-  group_by(pid) %>%
+  group_by(id) %>%
   summarise(m = round(mean(pref), 6)) %>%
   mutate(colour = case_when(m > 0 ~ mech_col, m < 0 ~ psych_col, TRUE ~ zero_col))
 
@@ -112,7 +113,9 @@ pb <- ggplot(items, aes(y = label)) +
   coord_cartesian(xlim = c(-1.15, 2.15)) +
   labs(x = NULL, y = NULL, title = "Item average response") +
   theme_paper +
-  theme(plot.title.position = "plot", panel.spacing.x = unit(6, "mm"))
+  theme(plot.title.position = "plot", panel.spacing.x = unit(6, "mm"),
+        axis.text.y = element_text(colour = mech_col),      # mechanical items
+        strip.text = element_text(colour = psych_col))      # target domains
 
 ##################
 # assemble and save
