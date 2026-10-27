@@ -35,7 +35,14 @@ joint_tests(m_all)
 # simple slopes
 summary(emmeans(m_all, ~ 1, weights = "equal"), infer = c(TRUE, TRUE))
 
-# exploratory linguistic controls: length and word frequency (mean SUBTLEX-US Zipf)
+# per-pairing means and 95% CIs
+d %>% group_by(llm, pair) %>%
+  summarise(mean = mean(pref, na.rm = TRUE), lo = t.test(pref)$conf.int[1], hi = t.test(pref)$conf.int[2])
+
+
+########################################################################################################################
+
+# exploratory linguistic controls: length and word frequency
 freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
   filter(!is.na(word), !is.na(zipf)) %>%
@@ -53,7 +60,7 @@ stim <- stim %>%
               summarise(mean_zipf = mean(zipf, na.rm = TRUE), .groups = "drop"),
             by = c("llm", "pair", "base"))
 
-# one row per pairing: mechanical-base minus psychological-base version
+# mechanical-base minus psychological-base version
 pair_cov <- stim %>%
   select(llm, pair, base, n_words, mean_zipf) %>%
   pivot_wider(names_from = base, values_from = c(n_words, mean_zipf)) %>%

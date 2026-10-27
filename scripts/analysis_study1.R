@@ -4,6 +4,7 @@ library(lmerTest)
 library(stringi)
 library(tidytext)
 library(LexOPS)
+library(broom.mixed)
 
 d <- read.csv("data/study1.csv") %>%
   filter(comparison == "mechanical vs psychological") %>%
@@ -17,6 +18,10 @@ analogies <- read.csv("stimuli/study1_analogies.csv") %>%
 m_main <- lmer(pref ~ 1 + (1 | id) + (1 | mech_base) + (1 | psych_base), d)
 summary(m_main)
 confint(m_main)
+
+# per-pairing 95% CIs
+d %>% group_by(mech_base, psych_base) %>%
+  summarise(mean = mean(pref, na.rm = TRUE), lo = t.test(pref)$conf.int[1], hi = t.test(pref)$conf.int[2])
 
 ################################################################################
 

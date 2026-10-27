@@ -36,6 +36,16 @@ eff_size(emmeans(m_all, ~ domain), sigma = sigma(m_all), edf = df.residual(m_all
 # do the domains differ?
 joint_tests(m_all)
 
+# per-pairing means and 95% CIs
+d %>% group_by(domain, mech_item) %>%
+  summarise(mean = mean(pref, na.rm = TRUE), lo = t.test(pref)$conf.int[1], hi = t.test(pref)$conf.int[2])
+
+
+################################################################################
+
+
+
+
 # length and word frequency
 freq <- lexops %>%
   transmute(word = str_to_lower(string), zipf = Zipf.SUBTLEX_US) %>%
